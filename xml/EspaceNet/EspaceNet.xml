@@ -1,0 +1,10345 @@
+<BREVETS>
+	<BREVET>
+		<NA>1</NA>
+		<TI>
+			<MC>Apparatuses</MC>
+			<MC>methods</MC>
+			<MC>relating</MC>
+			<MC>RFID</MC>
+			<MC>tags</MC>
+		</TI>
+		<AUS>
+			<AU>JALKANEN JANNE PAAVO RISTOPPI 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FI</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>2</NA>
+		<TI>
+			<MC>DISCONTINUOUS</MC>
+			<MC>LOOP</MC>
+			<MC>ANTENNAS</MC>
+			<MC>SUITABLE</MC>
+			<MC>RFID</MC>
+			<MC>TAGS</MC>
+			<MC>RELATED</MC>
+			<MC>COMPONENTS</MC>
+			<MC>SYSTEMS</MC>
+			<MC>METHODS</MC>
+		</TI>
+		<AUS>
+			<AU>VEMAGIRI JEEVAN KUMAR 
+		</AU>
+			<AU>WAGNER RICHARD EDWARD 
+		</AU>
+			<AU>WHITING MATTHEW SCOTT 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>3</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>SENSOR</MC>
+			<MC>ASSEMBLY</MC>
+		</TI>
+		<AUS>
+			<AU>FORSTER IAN J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>4</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>device</MC>
+			<MC>enhancing</MC>
+			<MC>surface</MC>
+			<MC>wave</MC>
+			<MC>guide</MC>
+			<MC>effect</MC>
+		</TI>
+		<AUS>
+			<AU>LIU TAI HWA 
+		</AU>
+			<AU>SUNG YI CHUN 
+		</AU>
+			<AU>YIN CHENG LUN 
+		</AU>
+			<AU>CHANG LI CHI 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>5</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>resistant</MC>
+			<MC>humid</MC>
+			<MC>environments</MC>
+			<MC>manufacturing</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>HALOPE CHRISTOPHE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>6</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>RIVET</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG PO WEI 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>7</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>SENSOR</MC>
+			<MC>ASSEMBLY</MC>
+		</TI>
+		<AUS>
+			<AU>FORSTER IAN J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>8</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>CASE</MC>
+			<MC>METHOD</MC>
+			<MC>MANUFACTURING</MC>
+			<MC>THEREOF</MC>
+		</TI>
+		<AUS>
+			<AU>YOO IN JONG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>9</NA>
+		<TI>
+			<MC>AUTOMATIC</MC>
+			<MC>PERSONAL</MC>
+			<MC>AUTHENTICATION</MC>
+			<MC>SYSTEM</MC>
+			<MC>METHOD</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>BLUETOOTH</MC>
+			<MC>PORTIBLE</MC>
+			<MC>HEALTH</MC>
+			<MC>CARE</MC>
+			<MC>ENVIRONMENT</MC>
+		</TI>
+		<AUS>
+			<AU>YOO SUN KOOK 
+		</AU>
+			<AU>KIM JUNG CHAE 
+		</AU>
+			<AU>PARK HO YEOUL 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>10</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>HEO SOON YEONG 
+		</AU>
+			<AU>HAN SEUNG JUN 
+		</AU>
+			<AU>LEE HYUN MI 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>11</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>HEO SOON YEONG 
+		</AU>
+			<AU>HAN SEUNG JUN 
+		</AU>
+			<AU>LEE HYUN MI 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>12</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>DEVICE</MC>
+		</TI>
+		<AUS>
+			<AU>LOUSSERT CHRISTOPHE 
+		</AU>
+			<AU>MARTIN PHILIPPE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FR</PA>
+			<PA>FR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>13</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>FACILITATING</MC>
+			<MC>INTERACTION</MC>
+			<MC>RFID</MC>
+			<MC>COMMUNICATIONS</MC>
+			<MC>CIRCUIT</MC>
+			<MC>MOBILE</MC>
+			<MC>TERMINAL</MC>
+		</TI>
+		<AUS>
+			<AU>AHO EERO 
+		</AU>
+			<AU>PALIN ARTO 
+		</AU>
+			<AU>REUNAMAEKI JUKKA 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FI</PA>
+			<PA>FI</PA>
+			<PA>FI</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>14</NA>
+		<TI>
+			<MC>INTEGRATED</MC>
+			<MC>LOOP</MC>
+			<MC>STRUCTURE</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>KOSKELAINEN TUOMAS 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FI</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>15</NA>
+		<TI>
+			<MC>Barcode</MC>
+			<MC>scanner</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>combo</MC>
+		</TI>
+		<AUS>
+			<AU>MAN CHUN SING MATTHEW 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>HK</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>16</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>SYSTEM</MC>
+		</TI>
+		<AUS>
+			<AU>SHINTANI PETER</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>17</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>READER</MC>
+			<MC>ANTENNA</MC>
+			<MC>SHELF</MC>
+		</TI>
+		<AUS>
+			<AU>YUAN YONG 
+		</AU>
+			<AU>YU DAN 
+		</AU>
+			<AU>HORST DIETER 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CN</PA>
+			<PA>CN</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>18</NA>
+		<TI>
+			<MC>BAND</MC>
+			<MC>GAP</MC>
+			<MC>REFERENCE</MC>
+			<MC>STARTING</MC>
+			<MC>CIRCUIT</MC>
+			<MC>PASSIVE</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>WU PATRICK BIAN 
+		</AU>
+			<AU>WANG XINGYI 
+		</AU>
+			<AU>HAN FUQIANG 
+		</AU>
+			<AU>QI SHEHU 
+		</AU>
+			<AU>LUO YUANMING 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CN</PA>
+			<PA>CN</PA>
+			<PA>CN</PA>
+			<PA>CN</PA>
+			<PA>CN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>19</NA>
+		<TI>
+			<MC>MANAGING</MC>
+			<MC>PLURALITY</MC>
+			<MC>RFID</MC>
+			<MC>DEVICES</MC>
+		</TI>
+		<AUS>
+			<AU>YOURKOWSKI SWANEE 
+		</AU>
+			<AU>COOP WILLIAM 
+		</AU>
+			<AU>SHORE REBECCA 
+		</AU>
+			<AU>UNG KEVIN 
+		</AU>
+			<AU>AVERY ROBERT 
+		</AU>
+			<AU>AYYAGARI ARUN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>20</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>PERTAINING</MC>
+			<MC>PLACEMENT</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>WILKINSON BRUCE W 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>21</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>reinforcing</MC>
+			<MC>structure</MC>
+		</TI>
+		<AUS>
+			<AU>LU SUI FENG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>22</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>structure</MC>
+			<MC>single</MC>
+			<MC>antenna</MC>
+			<MC>multiple</MC>
+			<MC>chips</MC>
+		</TI>
+		<AUS>
+			<AU>YAN TIAN LIN 
+		</AU>
+			<AU>ZHANG ZHENG HONG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>MY</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>23</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>SYSTEM</MC>
+			<MC>RELATED</MC>
+			<MC>OPERATING</MC>
+			<MC>METHODS</MC>
+		</TI>
+		<AUS>
+			<AU>LIN LANG 
+		</AU>
+			<AU>HARISCHANDRA CHANDRASHEKHARA 
+		</AU>
+			<AU>KHADE DEEPAK 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>IN</PA>
+			<PA>IN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>24</NA>
+		<TI>
+			<MC>Mobile</MC>
+			<MC>sales</MC>
+			<MC>transport</MC>
+			<MC>unit</MC>
+			<MC>e.g.</MC>
+			<MC>bus</MC>
+			<MC>door</MC>
+			<MC>detachably</MC>
+			<MC>attached</MC>
+			<MC>housing</MC>
+			<MC>receiving</MC>
+			<MC>space</MC>
+			<MC>housing</MC>
+			<MC>closed</MC>
+			<MC>antennas</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>arranged</MC>
+			<MC>door</MC>
+		</TI>
+		<AUS>
+			<AU>MOEHLENKAMP MARGARETE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>25</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>JEPPESEN HENRIK RISBO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>26</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>TRANSMITTING</MC>
+			<MC>TAG</MC>
+			<MC>INFORMATION</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>TAG</MC>
+			<MC>POSITION</MC>
+			<MC>TRACKING</MC>
+			<MC>SYSTEM</MC>
+		</TI>
+		<AUS>
+			<AU>HUR KWAN 
+		</AU>
+			<AU>KANG KYEOUNG HO 
+		</AU>
+			<AU>PARK JONG KUK 
+		</AU>
+			<AU>YOO HONG JAE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>27</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>READER</MC>
+		</TI>
+		<AUS>
+			<AU>TSAI CHUN LIANG 
+		</AU>
+			<AU>CHANG SHAO CHANG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>28</NA>
+		<TI>
+			<MC>CONTAINER</MC>
+			<MC>SEAL</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>METHOD</MC>
+			<MC>MAKING</MC>
+		</TI>
+		<AUS>
+			<AU>PHANEUF PETER 
+		</AU>
+			<AU>BURNS GARY P 
+		</AU>
+			<AU>ISABELL MICHAEL 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>29</NA>
+		<TI>
+			<MC>COMBINED</MC>
+			<MC>RFID</MC>
+			<MC>WIRELESS</MC>
+			<MC>CHARGING</MC>
+			<MC>ELECTROMAGNETIC</MC>
+			<MC>WAVE</MC>
+			<MC>ABSORBER</MC>
+			<MC>COMBINED</MC>
+			<MC>RFID</MC>
+			<MC>WIRELESS</MC>
+			<MC>CHARGING</MC>
+			<MC>WIRELESS</MC>
+			<MC>ANTENNA</MC>
+			<MC>INCLUDING</MC>
+			<MC>METHOD</MC>
+			<MC>MANUFACTURING</MC>
+		</TI>
+		<AUS>
+			<AU>KIM KI HUN 
+		</AU>
+			<AU>PARK YONG BOK 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>30</NA>
+		<TI>
+			<MC>OMNIDIRECTIONAL</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>ANTENNA</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>SHI JIYUAN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>31</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>SYSTEM</MC>
+			<MC>TRACKING</MC>
+			<MC>MANAGING</MC>
+			<MC>MATERIALS</MC>
+			<MC>MANUFACTURING</MC>
+			<MC>PROCESS</MC>
+		</TI>
+		<AUS>
+			<AU>SCHOENING KENNETH F 
+		</AU>
+			<AU>GREAVES WILLIAM J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>32</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>READER</MC>
+			<MC>ANTENNA</MC>
+			<MC>ARRANGEMENT</MC>
+			<MC>MULTIPLE</MC>
+			<MC>LINEARLY</MC>
+			<MC>POLARIZED</MC>
+			<MC>ELEMENTS</MC>
+		</TI>
+		<AUS>
+			<AU>BELLOWS DAVID E 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>33</NA>
+		<TI>
+			<MC>PHYSIOLOGICAL</MC>
+			<MC>SENSOR</MC>
+			<MC>SYSTEM</MC>
+			<MC>AUTOMATIC</MC>
+			<MC>AUTHENTICATION</MC>
+			<MC>VALIDATION</MC>
+			<MC>MEANS</MC>
+			<MC>RFID</MC>
+			<MC>PROTOCOL</MC>
+			<MC>INTEGRATED</MC>
+			<MC>RFID</MC>
+			<MC>INTERROGATOR</MC>
+			<MC>SYSTEM</MC>
+		</TI>
+		<AUS>
+			<AU>BRUMER REBECCA 
+		</AU>
+			<AU>CHAMOUN NASSIB G 
+		</AU>
+			<AU>CORDERO RAFEAL M 
+		</AU>
+			<AU>DAVIDSON MARC 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>34</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>SYSTEM</MC>
+			<MC>TRACKING</MC>
+			<MC>MANAGING</MC>
+			<MC>MATERIALS</MC>
+			<MC>MANUFACTURING</MC>
+			<MC>PROCESS</MC>
+		</TI>
+		<AUS>
+			<AU>SCHOENING KENNETH F 
+		</AU>
+			<AU>GREAVES WILLIAM J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>35</NA>
+		<TI>
+			<MC>ULTRA</MC>
+			<MC>HIGH</MC>
+			<MC>FREQUENCY</MC>
+			<MC>UHF</MC>
+			<MC>RFID</MC>
+			<MC>RFID</MC>
+			<MC>READER</MC>
+			<MC>RFID</MC>
+			<MC>NETWORK</MC>
+			<MC>METHOD</MC>
+			<MC>COMMUNICATION</MC>
+			<MC>RFID</MC>
+			<MC>NETWORK</MC>
+		</TI>
+		<AUS>
+			<AU>MANZI GIULIANO 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>AT</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>36</NA>
+		<TI>
+			<MC>Thermally</MC>
+			<MC>insulated</MC>
+			<MC>wireless</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>box</MC>
+		</TI>
+		<AUS>
+			<AU>TSAI SEN CHOU 
+		</AU>
+			<AU>CHEN CHIH CHENG 
+		</AU>
+			<AU>CHUNG KUAN JUNG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>37</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG HONG XU 
+		</AU>
+			<AU>YANG SHUN TONG 
+		</AU>
+			<AU>PENG RONG XIANG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>38</NA>
+		<TI>
+			<MC>Apparatus</MC>
+			<MC>recording</MC>
+			<MC>storing</MC>
+			<MC>reading</MC>
+			<MC>humidity</MC>
+			<MC>designed</MC>
+			<MC>insert</MC>
+			<MC>label</MC>
+			<MC>assembly</MC>
+			<MC>label</MC>
+			<MC>top</MC>
+			<MC>provided</MC>
+			<MC>passive</MC>
+			<MC>transponder</MC>
+			<MC>complete</MC>
+			<MC>electronic</MC>
+			<MC>RFID</MC>
+			<MC>sensor</MC>
+		</TI>
+		<AUS>
+			<AU>JURISCH REINHARD 
+		</AU>
+			<AU>PEITSCH PETER 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>39</NA>
+		<TI>
+			<MC>Contactless</MC>
+			<MC>data</MC>
+			<MC>transmission</MC>
+			<MC>device</MC>
+			<MC>transponder</MC>
+			<MC>unit</MC>
+			<MC>implementation</MC>
+			<MC>RFID</MC>
+			<MC>method</MC>
+			<MC>documents</MC>
+			<MC>electronic</MC>
+			<MC>component</MC>
+			<MC>electric</MC>
+			<MC>conductor</MC>
+			<MC>structure</MC>
+			<MC>mounting</MC>
+			<MC>area</MC>
+		</TI>
+		<AUS>
+			<AU>MUTH OLIVER DR 
+		</AU>
+			<AU>DONATH DENIS 
+		</AU>
+			<AU>TIETKE MARKUS 
+		</AU>
+			<AU>FERBER ALEXANDER 
+		</AU>
+			<AU>TROELENBERG STEFAN 
+		</AU>
+			<AU>FISCHER JOERG 
+		</AU>
+			<AU>KLOESER JOACHIM 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+			<PA>DE</PA>
+			<PA>DE</PA>
+			<PA>DE</PA>
+			<PA>DE</PA>
+			<PA>DE</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>40</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>navigated</MC>
+			<MC>dental</MC>
+			<MC>implantology</MC>
+			<MC>determining</MC>
+			<MC>spatial</MC>
+			<MC>position</MC>
+			<MC>orientation</MC>
+			<MC>medical</MC>
+			<MC>device</MC>
+			<MC>jaw</MC>
+			<MC>joint</MC>
+			<MC>trajectories</MC>
+			<MC>involves</MC>
+			<MC>recording</MC>
+			<MC>movements</MC>
+			<MC>jaws</MC>
+			<MC>securing</MC>
+			<MC>RFID</MC>
+			<MC>component</MC>
+			<MC>jaws</MC>
+		</TI>
+		<AUS>
+			<AU>GRUBE GERD 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>41</NA>
+		<TI>
+			<MC>Dual</MC>
+			<MC>verified</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>LI YONG CHUAN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>42</NA>
+		<TI>
+			<MC>Tracing</MC>
+			<MC>system</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>image</MC>
+			<MC>recognition</MC>
+		</TI>
+		<AUS>
+			<AU>CHIU CHAUCER 
+		</AU>
+			<AU>ZHAO HUA BEI 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>CN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>43</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>book</MC>
+			<MC>management</MC>
+			<MC>security</MC>
+			<MC>gate</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN HORNG JI 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>44</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>HWAN LU CHEN 
+		</AU>
+			<AU>CHEN PO CHING 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>45</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>diaper</MC>
+			<MC>absorber</MC>
+			<MC>sensing</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>YU JIUN JANG 
+		</AU>
+			<AU>CHEN CHIUNG HSIUNG 
+		</AU>
+			<AU>LU CHUN AN 
+		</AU>
+			<AU>LIN HONG CHING 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>46</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>GRIPPER</MC>
+			<MC>DEVICE</MC>
+		</TI>
+		<AUS>
+			<AU>AN WEN HAO 
+		</AU>
+			<AU>GAO BO 
+		</AU>
+			<AU>GAO PENG 
+		</AU>
+			<AU>SUN WEI 
+		</AU>
+			<AU>SUN XI 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CN</PA>
+			<PA>CN</PA>
+			<PA>CN</PA>
+			<PA>CN</PA>
+			<PA>CN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>47</NA>
+		<TI>
+			<MC>Device</MC>
+			<MC>detecting</MC>
+			<MC>object</MC>
+			<MC>marked</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>identified</MC>
+			<MC>electromagnetic</MC>
+			<MC>waves</MC>
+			<MC>reading</MC>
+			<MC>devices</MC>
+			<MC>frequency</MC>
+			<MC>bands</MC>
+			<MC>supplying</MC>
+			<MC>energy</MC>
+			<MC>transponder</MC>
+			<MC>label</MC>
+			<MC>data</MC>
+			<MC>exchange</MC>
+			<MC>transponder</MC>
+		</TI>
+		<AUS>
+			<AU>GILA JANOS 
+		</AU>
+			<AU>SEISENBERGER CLAUS 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>AT</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>48</NA>
+		<TI>
+			<MC>Planar</MC>
+			<MC>antenna</MC>
+			<MC>communicating</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>comprises</MC>
+			<MC>coupling</MC>
+			<MC>elements</MC>
+			<MC>made</MC>
+			<MC>metal</MC>
+			<MC>coating</MC>
+			<MC>circuit</MC>
+			<MC>board</MC>
+			<MC>forming</MC>
+			<MC>mass</MC>
+			<MC>surface</MC>
+			<MC>carrier</MC>
+			<MC>transmission</MC>
+			<MC>surface</MC>
+			<MC>forming</MC>
+			<MC>secondary</MC>
+			<MC>radiator</MC>
+		</TI>
+		<AUS>
+			<AU>REPPEL MICHAEL 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>49</NA>
+		<TI>
+			<MC>RADIO</MC>
+			<MC>FREQUENCY</MC>
+			<MC>SWITCH</MC>
+			<MC>METHOD</MC>
+			<MC>CONTROLLING</MC>
+			<MC>THEREOF</MC>
+			<MC>RFID</MC>
+			<MC>ELECTRONIC</MC>
+			<MC>SHELF</MC>
+			<MC>SYSTEM</MC>
+		</TI>
+		<AUS>
+			<AU>JUNG JAE YOUNG 
+		</AU>
+			<AU>CHOI WON KYU 
+		</AU>
+			<AU>HAN KYU WON 
+		</AU>
+			<AU>PARK CHAN WON 
+		</AU>
+			<AU>CHAE JONG SUK 
+		</AU>
+			<AU>PYO CHEOL SIG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>50</NA>
+		<TI>
+			<MC>EMULATED</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>ZATLOUKAL PETER 
+		</AU>
+			<AU>ENGSTROM G ERIC 
+		</AU>
+			<AU>SMITH CINDY M 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>51</NA>
+		<TI>
+			<MC>ESTIMATING</MC>
+			<MC>PARKING</MC>
+			<MC>SPACE</MC>
+			<MC>OCCUPANCY</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>JORDAN DWIGHT 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>52</NA>
+		<TI>
+			<MC>LANE</MC>
+			<MC>POSITION</MC>
+			<MC>DETECTION</MC>
+			<MC>ARRANGEMENT</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>TESKE JAMES M 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>53</NA>
+		<TI>
+			<MC>SYSTEM</MC>
+			<MC>METHOD</MC>
+			<MC>MOTIVATING</MC>
+			<MC>PAYMENT</MC>
+			<MC>RFID</MC>
+			<MC>CONTACT</MC>
+			<MC>CONTACT</MC>
+			<MC>TRANSACTION</MC>
+		</TI>
+		<AUS/>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>54</NA>
+		<TI>
+			<MC>EXCESS</MC>
+			<MC>RADIO</MC>
+			<MC>FREQUENCY</MC>
+			<MC>RF</MC>
+			<MC>POWER</MC>
+			<MC>STORAGE</MC>
+			<MC>RFID</MC>
+			<MC>TAGS</MC>
+			<MC>RELATED</MC>
+			<MC>SYSTEMS</MC>
+			<MC>METHODS</MC>
+		</TI>
+		<AUS>
+			<AU>DOWNIE JOHN DAVID 
+		</AU>
+			<AU>NEDERLOF LEO 
+		</AU>
+			<AU>SUTHERLAND JAMES SCOTT 
+		</AU>
+			<AU>TAYLOR MARK PETER 
+		</AU>
+			<AU>WAGNER RICHARD EDWARD 
+		</AU>
+			<AU>WHITING MATTHEW SCOTT 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>BE</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>55</NA>
+		<TI>
+			<MC>Detecting</MC>
+			<MC>Passive</MC>
+			<MC>RF</MC>
+			<MC>Components</MC>
+			<MC>Using</MC>
+			<MC>RFID</MC>
+			<MC>Tags</MC>
+		</TI>
+		<AUS>
+			<AU>KUMMETZ THOMAS 
+		</AU>
+			<AU>EISENWINTER STEFAN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>56</NA>
+		<TI>
+			<MC>COMMUNICATIONS</MC>
+			<MC>MULTIPLE</MC>
+			<MC>RFID</MC>
+			<MC>CONNECTED</MC>
+			<MC>TAGS</MC>
+			<MC>DEVICES</MC>
+			<MC>RELATED</MC>
+			<MC>SYSTEMS</MC>
+			<MC>METHODS</MC>
+		</TI>
+		<AUS>
+			<AU>DOWNIE JOHN DAVID 
+		</AU>
+			<AU>SUTHERLAND JAMES SCOTT 
+		</AU>
+			<AU>WAGNER RICHARD EDWARD 
+		</AU>
+			<AU>WEBB DALE ALAN 
+		</AU>
+			<AU>WHITING MATTHEW SCOTT 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>57</NA>
+		<TI>
+			<MC>PROTOCOL</MC>
+			<MC>COMMUNICATIONS</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>CONNECTED</MC>
+			<MC>DEVICE</MC>
+			<MC>RELATED</MC>
+			<MC>SYSTEMS</MC>
+			<MC>METHODS</MC>
+		</TI>
+		<AUS>
+			<AU>DOWNIE JOHN DAVID 
+		</AU>
+			<AU>SUTHERLAND JAMES SCOTT 
+		</AU>
+			<AU>WAGNER RICHARD EDWARD 
+		</AU>
+			<AU>WEBB DALE ALAN 
+		</AU>
+			<AU>WHITING MATTHEW SCOTT 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>58</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>CONNECTED</MC>
+			<MC>TAG</MC>
+			<MC>COMMUNICATIONS</MC>
+			<MC>PROTOCOL</MC>
+			<MC>RELATED</MC>
+			<MC>SYSTEMS</MC>
+			<MC>METHODS</MC>
+		</TI>
+		<AUS>
+			<AU>DOWNIE JOHN DAVID 
+		</AU>
+			<AU>NEDERLOF LEO 
+		</AU>
+			<AU>SUTHERLAND JAMES SCOTT 
+		</AU>
+			<AU>WAGNER RICHARD EDWARD 
+		</AU>
+			<AU>WEBB DALE ALAN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>BE</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>59</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>measuring</MC>
+			<MC>level</MC>
+			<MC>liquid</MC>
+			<MC>container</MC>
+			<MC>involves</MC>
+			<MC>detecting</MC>
+			<MC>liquid</MC>
+			<MC>level</MC>
+			<MC>container</MC>
+			<MC>response</MC>
+			<MC>signal</MC>
+			<MC>attenuation</MC>
+			<MC>response</MC>
+			<MC>signal</MC>
+			<MC>RFID</MC>
+			<MC>transponder</MC>
+			<MC>reading</MC>
+			<MC>unit</MC>
+		</TI>
+		<AUS>
+			<AU>FINK NIKOLAI 
+		</AU>
+			<AU>SEEFELD PETER 
+		</AU>
+			<AU>ZENUNI ARMEND 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CH</PA>
+			<PA>DE</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>60</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>Transponder</MC>
+			<MC>For</MC>
+			<MC>Communicating</MC>
+			<MC>Condition</MC>
+			<MC>Of</MC>
+			<MC>Component</MC>
+		</TI>
+		<AUS>
+			<AU>DOWNIE JOHN DAVID 
+		</AU>
+			<AU>NEDERLOF LEO 
+		</AU>
+			<AU>SUTHERLAND JAMES SCOTT 
+		</AU>
+			<AU>TAYLOR MARK PETER 
+		</AU>
+			<AU>WAGNER RICHARD EDWARD 
+		</AU>
+			<AU>WHITING MATTHEW SCOTT 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>BE</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>61</NA>
+		<TI>
+			<MC>SYSTEMS</MC>
+			<MC>METHODS</MC>
+			<MC>INTEGRATING</MC>
+			<MC>RFID</MC>
+			<MC>CIRCUITRY</MC>
+			<MC>FLEXIBLE</MC>
+			<MC>CIRCUITS</MC>
+		</TI>
+		<AUS>
+			<AU>MAURICIA JUAN CARLOS 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>62</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>SYSTEM</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>REDUCED</MC>
+			<MC>SET</MC>
+			<MC>COMMUNICATION</MC>
+			<MC>PROTOCOL</MC>
+		</TI>
+		<AUS>
+			<AU>ALICOT JORGE F 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>63</NA>
+		<TI>
+			<MC>CONTAINER</MC>
+			<MC>SEAL</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>METHOD</MC>
+			<MC>MAKING</MC>
+		</TI>
+		<AUS>
+			<AU>PHANEUF PETER 
+		</AU>
+			<AU>BURNS GARY P 
+		</AU>
+			<AU>ISABELL MICHAEL 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>64</NA>
+		<TI>
+			<MC>APPARATUS</MC>
+			<MC>METHOD</MC>
+			<MC>MANAGING</MC>
+			<MC>VEHICLE</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>SHIN JU SEOK 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>65</NA>
+		<TI>
+			<MC>Lid</MC>
+			<MC>reusable</MC>
+			<MC>lid</MC>
+			<MC>hermetically</MC>
+			<MC>closing</MC>
+			<MC>container</MC>
+			<MC>usable</MC>
+			<MC>container</MC>
+			<MC>RFID</MC>
+			<MC>transponder</MC>
+			<MC>battery</MC>
+			<MC>supply</MC>
+			<MC>power</MC>
+		</TI>
+		<AUS>
+			<AU>MAIER MAX 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>66</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>DEVICE</MC>
+			<MC>SYSTEM</MC>
+			<MC>DISPLAYING</MC>
+			<MC>RFID</MC>
+			<MC>APPLICATION</MC>
+			<MC>INFORMATION</MC>
+		</TI>
+		<AUS>
+			<AU>LIANG GUOHE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>67</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>GAO BO</AU>
+			<AU>I HAITAO</AU>
+			<AU>U JUN</AU>
+			<AU>HANG JIE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>68</NA>
+		<TI>
+			<MC>Multi</MC>
+			<MC>frequency</MC>
+			<MC>fractal</MC>
+			<MC>folding</MC>
+			<MC>dipole</MC>
+			<MC>antenna</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG XUN</AU>
+			<AU>IAO DANYANG</AU>
+			<AU>IN BIN</AU>
+			<AU>ANG JIANSHENG</AU>
+			<AU>IN SEN</AU>
+			<AU>IN QINGWEI</AU>
+			<AU>IN TING</AU>
+			<AU>IU YUWEI</AU>
+			<AU>UANG WENTING</AU>
+			<AU>HAN HONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>69</NA>
+		<TI>
+			<MC>Parking</MC>
+			<MC>spot</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>GAO XIA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>70</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>TANG XIAOMEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>71</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>electricity</MC>
+			<MC>meter</MC>
+			<MC>lock</MC>
+			<MC>catch</MC>
+		</TI>
+		<AUS>
+			<AU>YU ZHENYONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>72</NA>
+		<TI>
+			<MC>Anti</MC>
+			<MC>counterfeiting</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>working</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>XIE LEI</AU>
+			<AU>ANG CHUYU</AU>
+			<AU>U SANGLU</AU>
+			<AU>HEN DAOXU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>73</NA>
+		<TI>
+			<MC>Ship</MC>
+			<MC>verification</MC>
+			<MC>hand</MC>
+			<MC>held</MC>
+			<MC>device</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>image</MC>
+			<MC>identification</MC>
+		</TI>
+		<AUS>
+			<AU>SHI QINGSHENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>74</NA>
+		<TI>
+			<MC>Label</MC>
+			<MC>harmonic</MC>
+			<MC>wave</MC>
+			<MC>obtaining</MC>
+			<MC>method</MC>
+			<MC>harmonic</MC>
+			<MC>wave</MC>
+			<MC>RFID</MC>
+			<MC>harmonic</MC>
+			<MC>wave</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN YONG</AU>
+			<AU>IN HAO</AU>
+			<AU>AN NA</AU>
+			<AU>AN XI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>75</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>transport</MC>
+			<MC>vehicle</MC>
+		</TI>
+		<AUS>
+			<AU>LIU CHAOHAI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>76</NA>
+		<TI>
+			<MC>Logistics</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LIU CHAOHAI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>77</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>active</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>YIN WU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>78</NA>
+		<TI>
+			<MC>Proximity</MC>
+			<MC>sensor</MC>
+			<MC>RFID</MC>
+			<MC>card</MC>
+			<MC>reader</MC>
+			<MC>proximity</MC>
+			<MC>sensing</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>YAN YIQIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>79</NA>
+		<TI>
+			<MC>Writing</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU LIMING</AU>
+			<AU>UANG WEIZHONG</AU>
+			<AU>HANG MIN</AU>
+			<AU>E QIXUE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>80</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>collision</MC>
+			<MC>method</MC>
+			<MC>mixed</MC>
+			<MC>multiway</MC>
+			<MC>tree</MC>
+			<MC>searching</MC>
+		</TI>
+		<AUS>
+			<AU>BAO FUGUANG</AU>
+			<AU>ANG ZONGGE</AU>
+			<AU>U PING</AU>
+			<AU>IU ZHONGJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>81</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>bottled</MC>
+			<MC>wine</MC>
+			<MC>cellar</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU YONG</AU>
+			<AU>ANG KEKE</AU>
+			<AU>U XIAOHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>82</NA>
+		<TI>
+			<MC>UHF</MC>
+			<MC>Ultra</MC>
+			<MC>High</MC>
+			<MC>Frequency</MC>
+			<MC>multi</MC>
+			<MC>protocol</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+			<MC>baseband</MC>
+			<MC>signal</MC>
+			<MC>processing</MC>
+			<MC>IP</MC>
+			<MC>Internet</MC>
+			<MC>Protocol</MC>
+			<MC>core</MC>
+			<MC>working</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>WANG HONGJUN</AU>
+			<AU>ANG XINTAO</AU>
+			<AU>AO MIN</AU>
+			<AU>IN SHUO</AU>
+			<AU>ANG HUI</AU>
+			<AU>ANG YAN</AU>
+			<AU>ANG LEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>83</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>antenna</MC>
+			<MC>ultra</MC>
+			<MC>high</MC>
+			<MC>frequency</MC>
+			<MC>UHF</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LI JIANXIONG</AU>
+			<AU>U HAITAO</AU>
+			<AU>U YIMIN</AU>
+			<AU>UAN BENLIANG</AU>
+			<AU>IAO KANG</AU>
+			<AU>HEN XIAOYU</AU>
+			<AU>IU CHONG</AU>
+			<AU>UAN WENDONG</AU>
+			<AU>I YUNXIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>84</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>safety</MC>
+			<MC>authentication</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>WEN GUANGJUN</AU>
+			<AU>A YULIN</AU>
+			<AU>I JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>85</NA>
+		<TI>
+			<MC>Community</MC>
+			<MC>security</MC>
+			<MC>patrol</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>QIAN GUOPING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>86</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>terminal</MC>
+		</TI>
+		<AUS>
+			<AU>WU SHAOZHI</AU>
+			<AU>U SHUANG</AU>
+			<AU>U YUE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>87</NA>
+		<TI>
+			<MC>Chipless</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>pole</MC>
+			<MC>identification</MC>
+		</TI>
+		<AUS>
+			<AU>XU LI</AU>
+			<AU>OU CHUANYUN</AU>
+			<AU>E YI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>88</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>sensing</MC>
+			<MC>system</MC>
+			<MC>interactive</MC>
+			<MC>function</MC>
+			<MC>sensing</MC>
+			<MC>device</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>CAI ZHENGZONG</AU>
+			<AU>IE ZHENHONG</AU>
+			<AU>UANG JIANWEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>89</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>monitor</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>SHIH CHI HSIUNG 
+		</AU>
+			<AU>HSIEH JUI KUN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>90</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>grouping</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>TAN WEI 
+		</AU>
+			<AU>LIN CHANG CHUN 
+		</AU>
+			<AU>CHEN SONG LIN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>91</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>System</MC>
+			<MC>Determining</MC>
+			<MC>Association</MC>
+			<MC>Set</MC>
+			<MC>RFID</MC>
+			<MC>Tags</MC>
+		</TI>
+		<AUS>
+			<AU>SMITH DANA S 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>92</NA>
+		<TI>
+			<MC>COMBINED</MC>
+			<MC>RFID</MC>
+			<MC>TOUCH</MC>
+			<MC>INPUT</MC>
+			<MC>TOUCH</MC>
+			<MC>SCREEN</MC>
+		</TI>
+		<AUS>
+			<AU>FROEJDH GUNNAR MARTIN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>SE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>93</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>hospital</MC>
+			<MC>guide</MC>
+			<MC>instrument</MC>
+			<MC>RFID</MC>
+			<MC>barcode</MC>
+			<MC>scanning</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>THE INVENTOR HAS WAIVED THE RIGHT TO BE MENTIONED</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>94</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>intelligent</MC>
+			<MC>parking</MC>
+			<MC>spot</MC>
+			<MC>lock</MC>
+		</TI>
+		<AUS>
+			<AU>LIU SHIGUO</AU>
+			<AU>HOU XIANGCHEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>95</NA>
+		<TI>
+			<MC>Petroleum</MC>
+			<MC>transportation</MC>
+			<MC>truck</MC>
+			<MC>monitoring</MC>
+			<MC>managing</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>global</MC>
+			<MC>positioning</MC>
+			<MC>system</MC>
+			<MC>GPS</MC>
+		</TI>
+		<AUS>
+			<AU>LIU SHENGQIANG</AU>
+			<AU>OU ZONGBO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>96</NA>
+		<TI>
+			<MC>Parking</MC>
+			<MC>lot</MC>
+			<MC>stall</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>working</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>XIE LEI</AU>
+			<AU>HOU WEI</AU>
+			<AU>U SANGLU</AU>
+			<AU>HEN DAOXU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>97</NA>
+		<TI>
+			<MC>Ultrahigh</MC>
+			<MC>frequency</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>baseband</MC>
+			<MC>signal</MC>
+			<MC>processing</MC>
+			<MC>modulating</MC>
+			<MC>circuit</MC>
+		</TI>
+		<AUS>
+			<AU>KAN NENGHUA</AU>
+			<AU>IA JI</AU>
+			<AU>IU LINGLING</AU>
+			<AU>ANG JISHI</AU>
+			<AU>IE JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>98</NA>
+		<TI>
+			<MC>Multi</MC>
+			<MC>tree</MC>
+			<MC>collision</MC>
+			<MC>algorithm</MC>
+			<MC>applicable</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>ZHENG JIALI</AU>
+			<AU>EI DONGXUE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>99</NA>
+		<TI>
+			<MC>Smart</MC>
+			<MC>file</MC>
+			<MC>cabinet</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>SHAN TIXIAO</AU>
+			<AU>IANG ZHEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>100</NA>
+		<TI>
+			<MC>Automatic</MC>
+			<MC>writing</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>outsourcing</MC>
+			<MC>cigarette</MC>
+			<MC>filter</MC>
+			<MC>stick</MC>
+			<MC>storage</MC>
+		</TI>
+		<AUS>
+			<AU>WANG QI</AU>
+			<AU>HU LIMING</AU>
+			<AU>AN LIFENG</AU>
+			<AU>U YUZHONG</AU>
+			<AU>HANG LIHONG</AU>
+			<AU>IU WANLI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>101</NA>
+		<TI>
+			<MC>Electric</MC>
+			<MC>bicycle</MC>
+			<MC>burglar</MC>
+			<MC>alarm</MC>
+			<MC>static</MC>
+			<MC>state</MC>
+			<MC>induction</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG CAIJIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>102</NA>
+		<TI>
+			<MC>Implementation</MC>
+			<MC>method</MC>
+			<MC>capable</MC>
+			<MC>tracing</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>HAN GUANGZHOU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>103</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>system</MC>
+			<MC>logistics</MC>
+			<MC>network</MC>
+		</TI>
+		<AUS>
+			<AU>HAN GUANGZHOU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>104</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>chip</MC>
+			<MC>built</MC>
+			<MC>memory</MC>
+		</TI>
+		<AUS>
+			<AU>DI PENG</AU>
+			<AU>IANG XIAOAN</AU>
+			<AU>HANG QIANG</AU>
+			<AU>IU JUNWEI</AU>
+			<AU>AO JUNHUA</AU>
+			<AU>HEN GANG</AU>
+			<AU>ENG ZEZHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>105</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>thermostatic</MC>
+			<MC>control</MC>
+			<MC>method</MC>
+			<MC>radio</MC>
+			<MC>frequency</MC>
+			<MC>card</MC>
+			<MC>reader</MC>
+		</TI>
+		<AUS>
+			<AU>WU JUNHUI</AU>
+			<AU>IU PEIYIN</AU>
+			<AU>I JINKUN</AU>
+			<AU>IU HELING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>106</NA>
+		<TI>
+			<MC>Positioning</MC>
+			<MC>system</MC>
+			<MC>operating</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>textile</MC>
+			<MC>cloth</MC>
+			<MC>vehicle</MC>
+		</TI>
+		<AUS>
+			<AU>MAI RONGHUA</AU>
+			<AU>IU PEIYIN</AU>
+			<AU>I JINKUN</AU>
+			<AU>IU HELING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>107</NA>
+		<TI>
+			<MC>Vehicle</MC>
+			<MC>identification</MC>
+			<MC>oriented</MC>
+			<MC>passive</MC>
+			<MC>ultra</MC>
+			<MC>high</MC>
+			<MC>frequency</MC>
+			<MC>UHF</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>structure</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN FENG</AU>
+			<AU>IN FENG</AU>
+			<AU>HU FENG</AU>
+			<AU>UO ZHENG WEIHUA</AU>
+			<AU>UO XIA</AU>
+			<AU>ANG LIANG</AU>
+			<AU>E JIANYUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>108</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>chip</MC>
+			<MC>process</MC>
+			<MC>testing</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>HU JIANGUO</AU>
+			<AU>UANG CHUNKAI</AU>
+			<AU>ANG DEMING</AU>
+			<AU>ING YANYU</AU>
+			<AU>U CHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>109</NA>
+		<TI>
+			<MC>Nonconducting</MC>
+			<MC>RFID</MC>
+			<MC>counterfeiting</MC>
+			<MC>bottle</MC>
+			<MC>cap</MC>
+			<MC>realization</MC>
+			<MC>method</MC>
+			<MC>nonconducting</MC>
+			<MC>RFID</MC>
+			<MC>counterfeiting</MC>
+			<MC>bottle</MC>
+			<MC>cap</MC>
+		</TI>
+		<AUS>
+			<AU>TONG GUOHAI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>110</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>SYSTEM</MC>
+		</TI>
+		<AUS>
+			<AU>KI TAE HUN 
+		</AU>
+			<AU>BAE GYU SUNG 
+		</AU>
+			<AU>KIM JONG BAE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>111</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>AUTHENTICATION</MC>
+			<MC>KEY</MC>
+			<MC>DISTRIBUTION</MC>
+			<MC>SYSTEM</MC>
+			<MC>THEREFOR</MC>
+		</TI>
+		<AUS/>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>112</NA>
+		<TI>
+			<MC>Human</MC>
+			<MC>body</MC>
+			<MC>sports</MC>
+			<MC>load</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>WU YANWEN</AU>
+			<AU>HU WUJING</AU>
+			<AU>ING YUTAO</AU>
+			<AU>IN DANQING</AU>
+			<AU>HANG HAIFENG</AU>
+			<AU>ONG ZILU</AU>
+			<AU>ANG CHAOBAO</AU>
+			<AU>IANG JIE</AU>
+			<AU>IANG XIANGHUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>113</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>dual</MC>
+			<MC>band</MC>
+			<MC>barcode</MC>
+			<MC>chip</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>QIU XIAOLIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>114</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>dual</MC>
+			<MC>band</MC>
+			<MC>barcode</MC>
+			<MC>chip</MC>
+			<MC>buckle</MC>
+		</TI>
+		<AUS>
+			<AU>QIU XIAOLIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>115</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>automatic</MC>
+			<MC>control</MC>
+			<MC>remote</MC>
+			<MC>parking</MC>
+			<MC>lot</MC>
+			<MC>barrier</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>WAN NINGNING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>116</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>safety</MC>
+			<MC>protection</MC>
+			<MC>wallet</MC>
+		</TI>
+		<AUS>
+			<AU>WU XINHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>117</NA>
+		<TI>
+			<MC>Harmonic</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN YONG</AU>
+			<AU>IN HAO</AU>
+			<AU>AN NA</AU>
+			<AU>AN XI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>118</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>circular</MC>
+			<MC>polarization</MC>
+			<MC>metal</MC>
+			<MC>wall</MC>
+			<MC>microstrip</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>FU JIAHUI</AU>
+			<AU>UANG YONGXIANG</AU>
+			<AU>UO LU</AU>
+			<AU>UA YI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>119</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>automatic</MC>
+			<MC>generation</MC>
+			<MC>internet</MC>
+			<MC>things</MC>
+			<MC>data</MC>
+			<MC>process</MC>
+			<MC>flow</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>XU YANG</AU>
+			<AU>U SHUAI</AU>
+			<AU>ENG CHONG</AU>
+			<AU>I XIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>120</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>certificate</MC>
+			<MC>verification</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG RONGSHUN</AU>
+			<AU>AI CONGPEI</AU>
+			<AU>IANG HONGMEI</AU>
+			<AU>HANG PING</AU>
+			<AU>AO XIAOBO</AU>
+			<AU>I LIAN</AU>
+			<AU>HEN JIANCHANG</AU>
+			<AU>AN GUANGXU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>121</NA>
+		<TI>
+			<MC>Establishment</MC>
+			<MC>method</MC>
+			<MC>regional</MC>
+			<MC>division</MC>
+			<MC>indoor</MC>
+			<MC>positioning</MC>
+			<MC>model</MC>
+			<MC>minimized</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+		</TI>
+		<AUS>
+			<AU>YE ZHIHUI</AU>
+			<AU>I RUI</AU>
+			<AU>HANG JING</AU>
+			<AU>I WENFENG</AU>
+			<AU>HAO KANGLIAN</AU>
+			<AU>ANG YUAN</AU>
+			<AU>HEN YICHENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>122</NA>
+		<TI>
+			<MC>Taxi</MC>
+			<MC>real</MC>
+			<MC>time</MC>
+			<MC>supervision</MC>
+			<MC>control</MC>
+			<MC>system</MC>
+			<MC>wireless</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU YONG</AU>
+			<AU>U SUYAN</AU>
+			<AU>IU HANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>123</NA>
+		<TI>
+			<MC>Control</MC>
+			<MC>method</MC>
+			<MC>active</MC>
+			<MC>RFID</MC>
+			<MC>conflict</MC>
+			<MC>free</MC>
+			<MC>reading</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>XU ZHAO</AU>
+			<AU>HANG KAITING</AU>
+			<AU>AO FANG</AU>
+			<AU>U NA</AU>
+			<AU>ANG MIMI</AU>
+			<AU>HOU HONGWEI</AU>
+			<AU>ANG YA NAN</AU>
+			<AU>A XINWEI</AU>
+			<AU>ANG FANG</AU>
+			<AU>HU JING</AU>
+			<AU>AO NA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>124</NA>
+		<TI>
+			<MC>Contact</MC>
+			<MC>bottle</MC>
+			<MC>cover</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>WANG ZHANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>125</NA>
+		<TI>
+			<MC>Ultrahigh</MC>
+			<MC>frequency</MC>
+			<MC>RFID</MC>
+			<MC>radio</MC>
+			<MC>frequency</MC>
+			<MC>circuit</MC>
+		</TI>
+		<AUS>
+			<AU>JIA JI</AU>
+			<AU>AN NENGHUA</AU>
+			<AU>E WENJUAN</AU>
+			<AU>HENG WANJUN</AU>
+			<AU>IE JIAN</AU>
+			<AU>IANG JIMAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>126</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG HONGXU</AU>
+			<AU>ANG SHUNTONG</AU>
+			<AU>ENG RONGXIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>127</NA>
+		<TI>
+			<MC>Safety</MC>
+			<MC>protection</MC>
+			<MC>cutting</MC>
+			<MC>sleeve</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>WU XINHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>128</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>body</MC>
+			<MC>machine</MC>
+		</TI>
+		<AUS>
+			<AU>DONG CHAO</AU>
+			<AU>ANG WEI</AU>
+			<AU>U YUTING</AU>
+			<AU>UE HAIYIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>129</NA>
+		<TI>
+			<MC>Wireless</MC>
+			<MC>identification</MC>
+			<MC>system</MC>
+			<MC>radio</MC>
+			<MC>frequency</MC>
+			<MC>technique</MC>
+		</TI>
+		<AUS>
+			<AU>HAN TUANJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>130</NA>
+		<TI>
+			<MC>Automobile</MC>
+			<MC>antitheft</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>QIN JIAHE</AU>
+			<AU>U JIXIANG</AU>
+			<AU>UO MINGHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>131</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>molten</MC>
+			<MC>steel</MC>
+			<MC>tank</MC>
+			<MC>tracking</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>XIANG YA NAN</AU>
+			<AU>IU ZHE</AU>
+			<AU>EN YANSHEN</AU>
+			<AU>AN HONG</AU>
+			<AU>UN YUCHANG</AU>
+			<AU>AI JIAOYANG</AU>
+			<AU>HANG HUI</AU>
+			<AU>AN SHAOJIE</AU>
+			<AU>AN RAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>132</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>counterfeiting</MC>
+			<MC>financial</MC>
+			<MC>paper</MC>
+			<MC>credential</MC>
+		</TI>
+		<AUS>
+			<AU>LIU XIAOFENG</AU>
+			<AU>HANG FENGCHUN</AU>
+			<AU>HANG HONGQUAN</AU>
+			<AU>ANG YUFENG</AU>
+			<AU>HANG CHAOGANG</AU>
+			<AU>I YI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>133</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>controlled</MC>
+			<MC>heatable</MC>
+			<MC>objects</MC>
+		</TI>
+		<AUS>
+			<AU>MAMORU IMURA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>134</NA>
+		<TI>
+			<MC>Active</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>positioning</MC>
+			<MC>card</MC>
+			<MC>reader</MC>
+			<MC>micro</MC>
+			<MC>strip</MC>
+			<MC>array</MC>
+			<MC>directing</MC>
+			<MC>antenna</MC>
+			<MC>array</MC>
+			<MC>positioning</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU HONG</AU>
+			<AU>IANG HONG</AU>
+			<AU>ONG LIJUN</AU>
+			<AU>HAO RUI</AU>
+			<AU>HEN YONG</AU>
+			<AU>HU TIANMIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>135</NA>
+		<TI>
+			<MC>Demodulating</MC>
+			<MC>circuit</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>MA HELIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>136</NA>
+		<TI>
+			<MC>Amplitude</MC>
+			<MC>limiting</MC>
+			<MC>circuit</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>MA HELIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>137</NA>
+		<TI>
+			<MC>Boxing</MC>
+			<MC>game</MC>
+			<MC>system</MC>
+			<MC>device</MC>
+			<MC>method</MC>
+			<MC>adopting</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>LIN FUQUAN</AU>
+			<AU>UO SURONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>138</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>DEVICE</MC>
+			<MC>OPERATING</MC>
+			<MC>SURFACE</MC>
+			<MC>ACOUSTIC</MC>
+			<MC>WAVES</MC>
+		</TI>
+		<AUS>
+			<AU>ANTSEV IVAN GEORGIEVICH 
+		</AU>
+			<AU>SAPOZHNIKOV GENNADIJ ANATOL EVICH 
+		</AU>
+			<AU>DMITRIEV VALERIJ FEDOROVICH 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>RU</PA>
+			<PA>RU</PA>
+			<PA>RU</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>139</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>RFID</MC>
+			<MC>DATA</MC>
+			<MC>TRANSMISSION</MC>
+		</TI>
+		<AUS>
+			<AU>BELLOWS DAVID E 
+		</AU>
+			<AU>O'HAIRE MICHAEL 
+		</AU>
+			<AU>SUBRAMANIAN PANCHAPAKESAN V 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>140</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>SYSTEM</MC>
+			<MC>DETECTING</MC>
+			<MC>ITEM</MC>
+			<MC>REMOVED</MC>
+			<MC>ESTABLISHMENT</MC>
+			<MC>AUTHORIZATION</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>SCHUESSLER FREDERICK 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>141</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>STRIEMER GRANT EDWARD 
+		</AU>
+			<AU>AMANN MATHIAS 
+		</AU>
+			<AU>JOYCE JONATHAN LIVINGSTON 
+		</AU>
+			<AU>SHERMAN FAIZ FIESAL 
+		</AU>
+			<AU>BOURILKOV JORDAN TODOROV 
+		</AU>
+			<AU>MORROW MARK WAYNE 
+		</AU>
+			<AU>DE CASTRO JOSE TADEO VERGARA 
+		</AU>
+			<AU>MESCHKAT STEPHAN JAMES ANDREAS 
+		</AU>
+			<AU>FRANKE MICHAEL 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>DE</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>DE</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>142</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>chip</MC>
+			<MC>piece</MC>
+			<MC>cloth</MC>
+			<MC>allowing</MC>
+			<MC>customer</MC>
+			<MC>sort</MC>
+			<MC>piece</MC>
+			<MC>cloth</MC>
+			<MC>respect</MC>
+			<MC>e.g.</MC>
+			<MC>colors</MC>
+			<MC>fastened</MC>
+			<MC>piece</MC>
+			<MC>cloth</MC>
+			<MC>visualized</MC>
+			<MC>monitor</MC>
+			<MC>wardrobe</MC>
+			<MC>mobile</MC>
+			<MC>phones</MC>
+		</TI>
+		<AUS>
+			<AU>DANIILIDIS SPIROS 
+		</AU>
+			<AU>OEZBAS TAMER 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>143</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>intelligent</MC>
+			<MC>seal</MC>
+		</TI>
+		<AUS>
+			<AU>YU ZHENYONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>144</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>shopping</MC>
+			<MC>guide</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>bar</MC>
+			<MC>code</MC>
+			<MC>scanning</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZHOU MING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>145</NA>
+		<TI>
+			<MC>Double</MC>
+			<MC>face</MC>
+			<MC>superminiature</MC>
+			<MC>UHF</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>antenna</MC>
+			<MC>derived</MC>
+			<MC>ENG</MC>
+			<MC>material</MC>
+		</TI>
+		<AUS>
+			<AU>LI LI</AU>
+			<AU>ANG LINCHUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>146</NA>
+		<TI>
+			<MC>Residential</MC>
+			<MC>area</MC>
+			<MC>vehicle</MC>
+			<MC>theft</MC>
+			<MC>alarming</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>SHI WENZAO</AU>
+			<AU>ANG PING</AU>
+			<AU>UANG XI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>147</NA>
+		<TI>
+			<MC>Ultrahigh</MC>
+			<MC>frequency</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>combination</MC>
+			<MC>grain</MC>
+			<MC>blocky</MC>
+			<MC>structure</MC>
+		</TI>
+		<AUS>
+			<AU>WANG RUOYI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>148</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>light</MC>
+			<MC>sensation</MC>
+			<MC>module</MC>
+			<MC>disassembly</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG XI</AU>
+			<AU>A DAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>149</NA>
+		<TI>
+			<MC>Automatic</MC>
+			<MC>guided</MC>
+			<MC>vehicle</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>HU YING</AU>
+			<AU>I JINPENG</AU>
+			<AU>HANG JUN</AU>
+			<AU>HENG ZHIZENG</AU>
+			<AU>HANG JIANWEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>150</NA>
+		<TI>
+			<MC>Hand</MC>
+			<MC>belt</MC>
+			<MC>integrated</MC>
+			<MC>USB</MC>
+			<MC>storage</MC>
+			<MC>function</MC>
+			<MC>RFID</MC>
+			<MC>function</MC>
+		</TI>
+		<AUS>
+			<AU>WANG ZHIQIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>151</NA>
+		<TI>
+			<MC>Community</MC>
+			<MC>electro</MC>
+			<MC>car</MC>
+			<MC>theft</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG PENG</AU>
+			<AU>HEN XIAOJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>152</NA>
+		<TI>
+			<MC>Data</MC>
+			<MC>transmission</MC>
+			<MC>method</MC>
+			<MC>data</MC>
+			<MC>transmission</MC>
+			<MC>device</MC>
+			<MC>data</MC>
+			<MC>transmission</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>Device</MC>
+		</TI>
+		<AUS>
+			<AU>MU HONG</AU>
+			<AU>I WENHUA</AU>
+			<AU>IN HAO</AU>
+			<AU>UN LAN</AU>
+			<AU>IU YU</AU>
+			<AU>I JIANYONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>153</NA>
+		<TI>
+			<MC>Household</MC>
+			<MC>decoration</MC>
+			<MC>object</MC>
+			<MC>circulation</MC>
+			<MC>management</MC>
+			<MC>platform</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>principle</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU YANXIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>154</NA>
+		<TI>
+			<MC>Management</MC>
+			<MC>platform</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>principle</MC>
+			<MC>controlling</MC>
+			<MC>fake</MC>
+			<MC>product</MC>
+			<MC>usage</MC>
+			<MC>printing</MC>
+			<MC>process</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU YANXIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>155</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>destroyed</MC>
+			<MC>dismounted</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU CHEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>156</NA>
+		<TI>
+			<MC>Immunoassay</MC>
+			<MC>test</MC>
+			<MC>strip</MC>
+			<MC>integrating</MC>
+			<MC>RFID</MC>
+			<MC>tags</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>PEETERS JOHN P 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>157</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>READER</MC>
+			<MC>PAD</MC>
+		</TI>
+		<AUS>
+			<AU>MAN CHUN SING MATTHEW 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>158</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>IMPROVING</MC>
+			<MC>RFID</MC>
+			<MC>COVERAGE</MC>
+		</TI>
+		<AUS>
+			<AU>KOCH MICHAEL J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>159</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>LOCATING</MC>
+			<MC>ITEM</MC>
+			<MC>RFID</MC>
+			<MC>MONITORED</MC>
+			<MC>AREA</MC>
+		</TI>
+		<AUS>
+			<AU>SUBRAMANIAN PANCHAPAKESAN V 
+		</AU>
+			<AU>ARNESON ROBERT C 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>160</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>UPDATING</MC>
+			<MC>CENTRAL</MC>
+			<MC>PLAN</MC>
+			<MC>AREA</MC>
+			<MC>BASED</MC>
+			<MC>LOCATION</MC>
+			<MC>PLURALITY</MC>
+			<MC>RFID</MC>
+			<MC>READERS</MC>
+		</TI>
+		<AUS>
+			<AU>O'HAIRE MICHAEL 
+		</AU>
+			<AU>WULFF THOMAS E 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>161</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>ANTI</MC>
+			<MC>COLLISION</MC>
+			<MC>MULTI</MC>
+			<MC>TAG</MC>
+			<MC>COLLISION</MC>
+			<MC>SLOT'</MC>
+			<MC>RATIO</MC>
+			<MC>IDLE</MC>
+			<MC>SLOT'</MC>
+			<MC>RATIO</MC>
+			<MC>RFID</MC>
+			<MC>SYSTEM</MC>
+		</TI>
+		<AUS>
+			<AU>SONG IN CHAN 
+		</AU>
+			<AU>FAN XIAO 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>CN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>162</NA>
+		<TI>
+			<MC>APPARATUS</MC>
+			<MC>PACKAGING</MC>
+			<MC>UNIT</MC>
+			<MC>RFID</MC>
+			<MC>CHIP</MC>
+			<MC>RFID</MC>
+			<MC>METHOD</MC>
+			<MC>THEREFOR</MC>
+		</TI>
+		<AUS>
+			<AU>BALTHES EDUARD 
+		</AU>
+			<AU>GESER JOHANNES 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>163</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>Sensor</MC>
+			<MC>Assembly</MC>
+		</TI>
+		<AUS>
+			<AU>FORSTER IAN J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>GB</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>164</NA>
+		<TI>
+			<MC>Passenger</MC>
+			<MC>flow</MC>
+			<MC>excess</MC>
+			<MC>load</MC>
+			<MC>alarm</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>XIANG SHENGJIAN</AU>
+			<AU>IANG RONGSUI</AU>
+			<AU>UO LIANG</AU>
+			<AU>ENG GUOJIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>165</NA>
+		<TI>
+			<MC>Traffic</MC>
+			<MC>station</MC>
+			<MC>passenger</MC>
+			<MC>flow</MC>
+			<MC>detection</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>XIANG SHENGJIAN</AU>
+			<AU>UO LIANG</AU>
+			<AU>U QINGMEI</AU>
+			<AU>UANG JING</AU>
+			<AU>ANG XIAOJUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>166</NA>
+		<TI>
+			<MC>Device</MC>
+			<MC>acquiring</MC>
+			<MC>information</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+		</TI>
+		<AUS>
+			<AU>LU ANJIANG</AU>
+			<AU>HANG ZHENGPING</AU>
+			<AU>UO YUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>167</NA>
+		<TI>
+			<MC>Wireless</MC>
+			<MC>RFID</MC>
+			<MC>sensing</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>LI JUNTAO</AU>
+			<AU>IU BINGWU</AU>
+			<AU>HEN XINGHAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>168</NA>
+		<TI>
+			<MC>Bus</MC>
+			<MC>position</MC>
+			<MC>information</MC>
+			<MC>display</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>WU GUANZHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>169</NA>
+		<TI>
+			<MC>Ultralow</MC>
+			<MC>power</MC>
+			<MC>consumption</MC>
+			<MC>low</MC>
+			<MC>drop</MC>
+			<MC>stabilized</MC>
+			<MC>voltage</MC>
+			<MC>supply</MC>
+			<MC>circuit</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>WU BIAN</AU>
+			<AU>U WEI</AU>
+			<AU>AN FUQIANG</AU>
+			<AU>I YIHU</AU>
+			<AU>UO YUANMING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>170</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>label</MC>
+			<MC>check</MC>
+		</TI>
+		<AUS>
+			<AU>LI YONGCHUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>171</NA>
+		<TI>
+			<MC>Buried</MC>
+			<MC>RFID</MC>
+			<MC>allocation</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>LIANG QIRONG</AU>
+			<AU>ANG YIJUN</AU>
+			<AU>HANG WEI</AU>
+			<AU>HENG JIAQI</AU>
+			<AU>U HAILIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>172</NA>
+		<TI>
+			<MC>Record</MC>
+			<MC>inquiry</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>Devices</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>HIMURA HIDE</AU>
+			<AU>IAO LINGHONG</AU>
+			<AU>HU JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>173</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>Devices</MC>
+			<MC>identification</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG WEI</AU>
+			<AU>ANG WEIFENG</AU>
+			<AU>E ZHIGANG</AU>
+			<AU>IAN FENG</AU>
+			<AU>IN YING</AU>
+			<AU>HA ZHENG</AU>
+			<AU>HOU XIAOPING</AU>
+			<AU>IU LIJIA</AU>
+			<AU>HOU WEI</AU>
+			<AU>AI PEIYING</AU>
+			<AU>ONG YIBIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>174</NA>
+		<TI>
+			<MC>Small</MC>
+			<MC>sized</MC>
+			<MC>metal</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>LIU QI</AU>
+			<AU>E SAILING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>175</NA>
+		<TI>
+			<MC>Implanted</MC>
+			<MC>RFID</MC>
+			<MC>bobbin</MC>
+			<MC>processing</MC>
+			<MC>system</MC>
+			<MC>operating</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>MAI RONGHUA</AU>
+			<AU>IU PEIYIN</AU>
+			<AU>I JINKUN</AU>
+			<AU>IU HELING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>176</NA>
+		<TI>
+			<MC>Low</MC>
+			<MC>cost</MC>
+			<MC>tag</MC>
+			<MC>mobile</MC>
+			<MC>RFID</MC>
+			<MC>authentication</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>LI HUIXIAN</AU>
+			<AU>U JINSHUN</AU>
+			<AU>ANG LIAOJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>177</NA>
+		<TI>
+			<MC>Restaurant</MC>
+			<MC>positioning</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>ZHAO FA</AU>
+			<AU>ANG GUANLING</AU>
+			<AU>EI JINMING</AU>
+			<AU>HU SHIDONG</AU>
+			<AU>HENG FANG</AU>
+			<AU>ANG SHIFANG</AU>
+			<AU>ANG ZHENGGANG</AU>
+			<AU>U SHANHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>178</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>bicycle</MC>
+			<MC>identification</MC>
+			<MC>card</MC>
+		</TI>
+		<AUS>
+			<AU>LI XINGMING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>179</NA>
+		<TI>
+			<MC>Meal</MC>
+			<MC>card</MC>
+			<MC>base</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LI XINGMING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>180</NA>
+		<TI>
+			<MC>Gas</MC>
+			<MC>fee</MC>
+			<MC>card</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LI XINGMING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>181</NA>
+		<TI>
+			<MC>Shopping</MC>
+			<MC>card</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>LI XINGMING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>182</NA>
+		<TI>
+			<MC>Flat</MC>
+			<MC>plate</MC>
+			<MC>RFID</MC>
+			<MC>counterfeiting</MC>
+			<MC>query</MC>
+			<MC>terminal</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>DENG JIANHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>183</NA>
+		<TI>
+			<MC>Mobile</MC>
+			<MC>phone</MC>
+			<MC>card</MC>
+			<MC>RFID</MC>
+			<MC>function</MC>
+		</TI>
+		<AUS>
+			<AU>GONG XUEJUN</AU>
+			<AU>HANG YAN</AU>
+			<AU>AN GUANGWEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>184</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>Device</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>DONG LANFEI</AU>
+			<AU>HEN HAIJUN</AU>
+			<AU>ONG QIANG</AU>
+			<AU>AO YONG</AU>
+			<AU>I YUFENG</AU>
+			<AU>ENG XUEZHI</AU>
+			<AU>ONG YUNTAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>185</NA>
+		<TI>
+			<MC>Mobile</MC>
+			<MC>data</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>capable</MC>
+			<MC>supporting</MC>
+			<MC>GPS</MC>
+			<MC>global</MC>
+			<MC>position</MC>
+			<MC>system</MC>
+			<MC>positioning</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>HOU WENRUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>186</NA>
+		<TI>
+			<MC>Active</MC>
+			<MC>RFID</MC>
+			<MC>efficient</MC>
+			<MC>collision</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>GUO LIMIN</AU>
+			<AU>AI XUDONG</AU>
+			<AU>U GUANGJUN</AU>
+			<AU>AO XUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>187</NA>
+		<TI>
+			<MC>Automatic</MC>
+			<MC>wedding</MC>
+			<MC>guest</MC>
+			<MC>broadcasting</MC>
+			<MC>system</MC>
+			<MC>employing</MC>
+			<MC>active</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>tags</MC>
+		</TI>
+		<AUS>
+			<AU>YI PINGHU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>188</NA>
+		<TI>
+			<MC>Electric</MC>
+			<MC>energy</MC>
+			<MC>meter</MC>
+			<MC>data</MC>
+			<MC>acquisition</MC>
+			<MC>instrument</MC>
+			<MC>RFID</MC>
+			<MC>Device</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>XIE WEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>189</NA>
+		<TI>
+			<MC>Interacting</MC>
+			<MC>answer</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>identification</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>HAN XIAOYU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>190</NA>
+		<TI>
+			<MC>Prize</MC>
+			<MC>exchanging</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>HAN XIAOYU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>191</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>dimensional</MC>
+			<MC>access</MC>
+			<MC>door</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG XIANZHOU</AU>
+			<AU>OU YINGZHONG</AU>
+			<AU>I ZHENSONG</AU>
+			<AU>HENG YUJIE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>192</NA>
+		<TI>
+			<MC>Ultra</MC>
+			<MC>thin</MC>
+			<MC>frequency</MC>
+			<MC>microstrip</MC>
+			<MC>patch</MC>
+			<MC>antenna</MC>
+			<MC>array</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>LIU ZHIJIA</AU>
+			<AU>U GUOHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>193</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>mine</MC>
+			<MC>positioning</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>GAO JIANQIANG</AU>
+			<AU>U GUOQIANG</AU>
+			<AU>ANG ZHANHONG</AU>
+			<AU>AO NIANGAO</AU>
+			<AU>HU WEIDONG</AU>
+			<AU>I JING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>194</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>DETECTING</MC>
+			<MC>ACTIVATION</MC>
+			<MC>CALL</MC>
+			<MC>BUTTON</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>BEACH ROBERT E 
+		</AU>
+			<AU>KOCH MICHAEL J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>195</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>READING</MC>
+			<MC>RFID</MC>
+			<MC>TAGS</MC>
+			<MC>LOWEST</MC>
+			<MC>POWER</MC>
+			<MC>CONSUMPTION</MC>
+		</TI>
+		<AUS>
+			<AU>O'HAIRE MICHAEL 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>196</NA>
+		<TI>
+			<MC>High</MC>
+			<MC>frequency</MC>
+			<MC>RFID</MC>
+			<MC>transponder</MC>
+			<MC>identification</MC>
+			<MC>e.g.</MC>
+			<MC>food</MC>
+			<MC>substance</MC>
+			<MC>impermeable</MC>
+			<MC>layer</MC>
+			<MC>specific</MC>
+			<MC>thickness</MC>
+			<MC>relative</MC>
+			<MC>variation</MC>
+			<MC>capacity</MC>
+			<MC>antenna</MC>
+			<MC>circuit</MC>
+			<MC>specific</MC>
+			<MC>percent</MC>
+		</TI>
+		<AUS>
+			<AU>THOMAS THIERRY 
+		</AU>
+			<AU>FRASSATI FRANCOIS 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FR</PA>
+			<PA>FR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>197</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>INTERACTION</MC>
+			<MC>METHOD</MC>
+			<MC>RFID</MC>
+			<MC>SYSTEM</MC>
+		</TI>
+		<AUS>
+			<AU>LIU CHAOYANG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>198</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>transferring</MC>
+			<MC>data</MC>
+			<MC>e.g.</MC>
+			<MC>data</MC>
+			<MC>carrier</MC>
+			<MC>RFID</MC>
+			<MC>terminal</MC>
+			<MC>involves</MC>
+			<MC>transferring</MC>
+			<MC>energy</MC>
+			<MC>data</MC>
+			<MC>carrier</MC>
+			<MC>transmitting</MC>
+			<MC>receiving</MC>
+			<MC>light</MC>
+			<MC>modulated</MC>
+			<MC>data</MC>
+			<MC>transmitted</MC>
+		</TI>
+		<AUS>
+			<AU>FAST PETER 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>199</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>managing</MC>
+			<MC>protecting</MC>
+			<MC>replaying</MC>
+			<MC>digital</MC>
+			<MC>medium</MC>
+			<MC>involves</MC>
+			<MC>utilizing</MC>
+			<MC>play</MC>
+			<MC>object</MC>
+			<MC>player</MC>
+			<MC>play</MC>
+			<MC>object</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>BURKHART THOMAS 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>200</NA>
+		<TI>
+			<MC>Broadband</MC>
+			<MC>circularly</MC>
+			<MC>polarized</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>WEN GUANGJUN</AU>
+			<AU>HANG QING</AU>
+			<AU>ANG PING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>201</NA>
+		<TI>
+			<MC>Security</MC>
+			<MC>label</MC>
+			<MC>sticker</MC>
+			<MC>combining</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>security</MC>
+			<MC>implementation</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>YAO XIANHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>202</NA>
+		<TI>
+			<MC>stop</MC>
+			<MC>highway</MC>
+			<MC>toll?management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>tags</MC>
+		</TI>
+		<AUS>
+			<AU>TIAN FENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>203</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>million</MC>
+			<MC>codes</MC>
+			<MC>theft</MC>
+			<MC>alarm</MC>
+			<MC>electric</MC>
+			<MC>bicycle</MC>
+		</TI>
+		<AUS>
+			<AU>MEI KUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>204</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>lock</MC>
+		</TI>
+		<AUS>
+			<AU>YU BO</AU>
+			<AU>ANG HUI</AU>
+			<AU>IU RUITAO</AU>
+			<AU>AI WENLIANG</AU>
+			<AU>HANG XUAN</AU>
+			<AU>HANG TIANWEI</AU>
+			<AU>I FEIGANG</AU>
+			<AU>IU XUHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>205</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG ZHIYONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>206</NA>
+		<TI>
+			<MC>Clearing</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LU JUNSHI</AU>
+			<AU>HANG HUIMIN</AU>
+			<AU>IU YULING</AU>
+			<AU>HANG WENCHAO</AU>
+			<AU>ANG MENGFEI</AU>
+			<AU>AI YUNTING</AU>
+			<AU>IU FEI</AU>
+			<AU>IANG YING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>207</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>recognition</MC>
+			<MC>system</MC>
+			<MC>cargo</MC>
+			<MC>ship</MC>
+			<MC>entering</MC>
+			<MC>leaving</MC>
+			<MC>port</MC>
+		</TI>
+		<AUS>
+			<AU>LIN JITONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>208</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>reception</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>LI WENZHANG</AU>
+			<AU>ENG ZHAOMIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>209</NA>
+		<TI>
+			<MC>Line</MC>
+			<MC>RFID</MC>
+			<MC>antenna</MC>
+			<MC>manufacturing</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>WANG XIANGYUE</AU>
+			<AU>IN YUQING</AU>
+			<AU>HU SHUNFA</AU>
+			<AU>HU JUNMIN</AU>
+			<AU>UO ZHENGNAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>210</NA>
+		<TI>
+			<MC>Small</MC>
+			<MC>item</MC>
+			<MC>searching</MC>
+			<MC>system</MC>
+			<MC>provided</MC>
+			<MC>active</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>YI PINGHU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>211</NA>
+		<TI>
+			<MC>Kindergarten</MC>
+			<MC>security</MC>
+			<MC>protection</MC>
+			<MC>system</MC>
+			<MC>provided</MC>
+			<MC>active</MC>
+			<MC>RFID</MC>
+			<MC>tags</MC>
+		</TI>
+		<AUS>
+			<AU>YI PINGHU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>212</NA>
+		<TI>
+			<MC>Novel</MC>
+			<MC>assembly</MC>
+			<MC>line</MC>
+			<MC>shunting</MC>
+			<MC>control</MC>
+			<MC>method</MC>
+			<MC>programmable</MC>
+			<MC>logic</MC>
+			<MC>controller</MC>
+			<MC>PLC</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>PENG LI</AU>
+			<AU>HANG JIAYU</AU>
+			<AU>A XIAOXIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>213</NA>
+		<TI>
+			<MC>Metal</MC>
+			<MC>resistant</MC>
+			<MC>super</MC>
+			<MC>high</MC>
+			<MC>frequency</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>SUN XIANGRONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>214</NA>
+		<TI>
+			<MC>System</MC>
+			<MC>method</MC>
+			<MC>searching</MC>
+			<MC>person</MC>
+			<MC>RFID</MC>
+			<MC>image</MC>
+			<MC>identification</MC>
+		</TI>
+		<AUS>
+			<AU>QIU QUANCHENG</AU>
+			<AU>HAO HUABEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>215</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>certificate</MC>
+			<MC>manufacture</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN WEI</AU>
+			<AU>ANG QING</AU>
+			<AU>HANG QIUJIE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>216</NA>
+		<TI>
+			<MC>Grouping</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>labels</MC>
+		</TI>
+		<AUS>
+			<AU>TAN WEI</AU>
+			<AU>IN CHANGCHUN</AU>
+			<AU>HEN SONGLIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>217</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>medicine</MC>
+			<MC>box</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LI ZHAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>218</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>medical</MC>
+			<MC>guide</MC>
+			<MC>instrument</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>wireless</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZHOU MING</AU>
+			<AU>HANG XUEYING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>219</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>shopping</MC>
+			<MC>guide</MC>
+			<MC>instrument</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZHOU MING</AU>
+			<AU>HANG XUEYING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>220</NA>
+		<TI>
+			<MC>Parking</MC>
+			<MC>control</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>YI PINGHU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>221</NA>
+		<TI>
+			<MC>Warehouse</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>YI PINGHU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>222</NA>
+		<TI>
+			<MC>Active</MC>
+			<MC>radio</MC>
+			<MC>frequency</MC>
+			<MC>location</MC>
+			<MC>identification</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>MAO JUNGANG</AU>
+			<AU>HOU LING</AU>
+			<AU>IN QINGQING</AU>
+			<AU>AO LIXIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>223</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>system</MC>
+			<MC>wireless</MC>
+			<MC>sensing</MC>
+			<MC>network</MC>
+			<MC>nodes</MC>
+		</TI>
+		<AUS>
+			<AU>MAO JUNGANG</AU>
+			<AU>HOU LING</AU>
+			<AU>IN QINGQING</AU>
+			<AU>AO LIXIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>224</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>read</MC>
+			<MC>write</MC>
+			<MC>equipment</MC>
+			<MC>route</MC>
+			<MC>function</MC>
+			<MC>network</MC>
+			<MC>composed</MC>
+		</TI>
+		<AUS>
+			<AU>MAO JUNGANG</AU>
+			<AU>HOU LING</AU>
+			<AU>IN QINGQING</AU>
+			<AU>AO LIXIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>225</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+			<MC>RFID</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG XINBEI</AU>
+			<AU>UN ZONGYUAN</AU>
+			<AU>IAO DAHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>226</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>CONTROL</MC>
+			<MC>DEVICE</MC>
+			<MC>SYSTEM</MC>
+			<MC>METHOD</MC>
+		</TI>
+		<AUS>
+			<AU>LIU CHAOYANG 
+		</AU>
+			<AU>ZHAO DONGXING 
+		</AU>
+			<AU>CHEN JIE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CN</PA>
+			<PA>CN</PA>
+			<PA>CN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>227</NA>
+		<TI>
+			<MC>SENSING</MC>
+			<MC>RFID</MC>
+			<MC>DEVICE</MC>
+			<MC>REACTIVE</MC>
+			<MC>STRAP</MC>
+			<MC>ATTACHMENT</MC>
+		</TI>
+		<AUS>
+			<AU>FORSTER IAN J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>228</NA>
+		<TI>
+			<MC>Linear</MC>
+			<MC>RFID</MC>
+			<MC>Antenna</MC>
+			<MC>Method</MC>
+			<MC>For</MC>
+			<MC>Manufacturing</MC>
+			<MC>The</MC>
+			<MC>Same</MC>
+		</TI>
+		<AUS>
+			<AU>WANG HSIANG YAEH 
+		</AU>
+			<AU>LIN YU CHING 
+		</AU>
+			<AU>JU SHUEN FA 
+		</AU>
+			<AU>JU JIUNN MIN 
+		</AU>
+			<AU>LUO CHENG NAN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>229</NA>
+		<TI>
+			<MC>Metallic</MC>
+			<MC>support</MC>
+			<MC>structure</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+			<MC>automobile</MC>
+			<MC>manufacturing</MC>
+			<MC>projections</MC>
+			<MC>obtaining</MC>
+			<MC>alignment</MC>
+			<MC>read</MC>
+			<MC>magnetic</MC>
+			<MC>field</MC>
+			<MC>outer</MC>
+			<MC>magnetic</MC>
+			<MC>field</MC>
+			<MC>lies</MC>
+			<MC>volume</MC>
+			<MC>cavity</MC>
+			<MC>arrangement</MC>
+		</TI>
+		<AUS>
+			<AU>ZICHNER RALF 
+		</AU>
+			<AU>BAUMANN REINHARD 
+		</AU>
+			<AU>MUELLER KAY 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+			<PA>DE</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>230</NA>
+		<TI>
+			<MC>Catering</MC>
+			<MC>quick</MC>
+			<MC>counting</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>OUYANG QIAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>231</NA>
+		<TI>
+			<MC>Public</MC>
+			<MC>key</MC>
+			<MC>infrastructure</MC>
+			<MC>PKI</MC>
+			<MC>RFID</MC>
+			<MC>counterfeiting</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>CAO PENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>232</NA>
+		<TI>
+			<MC>Shielding</MC>
+			<MC>interference</MC>
+			<MC>free</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>metal</MC>
+			<MC>layer</MC>
+			<MC>packing</MC>
+			<MC>box</MC>
+			<MC>preparation</MC>
+			<MC>method</MC>
+			<MC>paper</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>OUYANG XUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>233</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>label</MC>
+			<MC>private</MC>
+			<MC>article</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>ZHOU LIANGWEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>234</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>data</MC>
+			<MC>encryption</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>LI JIAN</AU>
+			<AU>EN GUANGJUN</AU>
+			<AU>A YULIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>235</NA>
+		<TI>
+			<MC>Ultra</MC>
+			<MC>high</MC>
+			<MC>frequency</MC>
+			<MC>RFID</MC>
+			<MC>UHFRFID</MC>
+			<MC>technology</MC>
+			<MC>campus</MC>
+			<MC>real</MC>
+			<MC>time</MC>
+			<MC>theft</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>YOU BIN</AU>
+			<AU>HEN LONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>236</NA>
+		<TI>
+			<MC>Train</MC>
+			<MC>theft</MC>
+			<MC>system</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>TAN JIE</AU>
+			<AU>AO NA</AU>
+			<AU>ANG MINLI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>237</NA>
+		<TI>
+			<MC>System</MC>
+			<MC>method</MC>
+			<MC>wood</MC>
+			<MC>burglary</MC>
+			<MC>protection</MC>
+			<MC>distance</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>TANG YUNJIAN</AU>
+			<AU>AN PENG</AU>
+			<AU>UN HUAIYI</AU>
+			<AU>U XIAOLI</AU>
+			<AU>O BIN</AU>
+			<AU>ONG NING</AU>
+			<AU>ENG HONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>238</NA>
+		<TI>
+			<MC>Coupled</MC>
+			<MC>feeding</MC>
+			<MC>horizontal</MC>
+			<MC>omni</MC>
+			<MC>directional</MC>
+			<MC>annular</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>LIU QI</AU>
+			<AU>U YUFENG</AU>
+			<AU>E SAILING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>239</NA>
+		<TI>
+			<MC>Surface</MC>
+			<MC>acoustic</MC>
+			<MC>wave</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU XIAOPING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>240</NA>
+		<TI>
+			<MC>License</MC>
+			<MC>plate</MC>
+			<MC>inspection</MC>
+			<MC>device</MC>
+			<MC>image</MC>
+			<MC>processing</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>WANG JIANG AN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>241</NA>
+		<TI>
+			<MC>Card</MC>
+			<MC>compulsory</MC>
+			<MC>insurance</MC>
+			<MC>mark</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>XIE ZHONGYU</AU>
+			<AU>HEN KAI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>242</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>performance</MC>
+			<MC>testing</MC>
+			<MC>platform</MC>
+		</TI>
+		<AUS>
+			<AU>YIN ZHOUPING</AU>
+			<AU>ANG YUHUI</AU>
+			<AU>HAN CHENYU</AU>
+			<AU>HAO GUANGYUAN</AU>
+			<AU>HANG CHAO</AU>
+			<AU>UO QIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>243</NA>
+		<TI>
+			<MC>Silica</MC>
+			<MC>gel</MC>
+			<MC>sealed?RFID?card</MC>
+		</TI>
+		<AUS>
+			<AU>GAO BINGYI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>244</NA>
+		<TI>
+			<MC>Device</MC>
+			<MC>capable</MC>
+			<MC>sealing</MC>
+			<MC>RFID</MC>
+			<MC>card</MC>
+			<MC>completely</MC>
+			<MC>silica</MC>
+			<MC>gel</MC>
+		</TI>
+		<AUS>
+			<AU>GAO HUIYUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>245</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>displayable</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHI BINGSONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>246</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>network</MC>
+			<MC>intelligent</MC>
+			<MC>attendance</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>YAN XINWEI</AU>
+			<AU>ANG HUIYING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>247</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>based?intelligent?bus?stop</MC>
+			<MC>broadcast</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>ZHAO LEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>248</NA>
+		<TI>
+			<MC>Control</MC>
+			<MC>system</MC>
+			<MC>controlling</MC>
+			<MC>vehicles</MC>
+			<MC>garage</MC>
+			<MC>residential</MC>
+			<MC>area</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZHAO LEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>249</NA>
+		<TI>
+			<MC>Displacement</MC>
+			<MC>sensing</MC>
+			<MC>positioning</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>TONG JIANWEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>250</NA>
+		<TI>
+			<MC>Read</MC>
+			<MC>write</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG LITIAN</AU>
+			<AU>IANG QIFENG</AU>
+			<AU>HANG LIYUAN</AU>
+			<AU>HU WEILEI</AU>
+			<AU>UN WEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>251</NA>
+		<TI>
+			<MC>Securing</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>RUBEN HRISTOV HRISTOV</AU>
+			<AU>HOMAS WENZEL</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>252</NA>
+		<TI>
+			<MC>Locating</MC>
+			<MC>method</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>tags</MC>
+		</TI>
+		<AUS>
+			<AU>LU YINGLIANG</AU>
+			<AU>U HAO</AU>
+			<AU>ENG YAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>253</NA>
+		<TI>
+			<MC>Active</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>solar</MC>
+			<MC>power</MC>
+			<MC>supply</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG ZHENGPU</AU>
+			<AU>HANG XIAOZHE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>254</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>integrated</MC>
+			<MC>circuit</MC>
+			<MC>IC</MC>
+			<MC>matching</MC>
+			<MC>network/antenna</MC>
+			<MC>embedded</MC>
+			<MC>surface</MC>
+			<MC>mount</MC>
+			<MC>devices</MC>
+			<MC>SMD</MC>
+		</TI>
+		<AUS>
+			<AU>MANZI GIULIANO 
+		</AU>
+			<AU>WIEDNIG GERALD 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>NL</PA>
+			<PA>NL</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>255</NA>
+		<TI>
+			<MC>READER</MC>
+			<MC>DEVICE</MC>
+			<MC>RFID</MC>
+			<MC>TRANSPONDER</MC>
+			<MC>TRANSPONDER</MC>
+			<MC>FUNCTIONALITY</MC>
+		</TI>
+		<AUS>
+			<AU>KUHL CARMEN 
+		</AU>
+			<AU>WAKIM PETER 
+		</AU>
+			<AU>VESIKIVI PETRI 
+		</AU>
+			<AU>HUOMO HEIKKI 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FI</PA>
+			<PA>US</PA>
+			<PA>FI</PA>
+			<PA>FI</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>256</NA>
+		<TI>
+			<MC>Device</MC>
+			<MC>identification</MC>
+			<MC>traceability</MC>
+			<MC>e.g.</MC>
+			<MC>ring</MC>
+			<MC>subjected</MC>
+			<MC>mechanical</MC>
+			<MC>chemical</MC>
+			<MC>aggression</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>elastomer</MC>
+			<MC>coating</MC>
+			<MC>directly</MC>
+			<MC>indirectly</MC>
+			<MC>product</MC>
+			<MC>connection</MC>
+			<MC>unit</MC>
+		</TI>
+		<AUS>
+			<AU>RAGONDET HERVE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>257</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>recognition</MC>
+			<MC>method</MC>
+			<MC>device</MC>
+			<MC>low</MC>
+			<MC>power</MC>
+			<MC>wireless</MC>
+			<MC>radio</MC>
+			<MC>frequency</MC>
+			<MC>signal</MC>
+		</TI>
+		<AUS>
+			<AU>ZHOU JIAXIANG</AU>
+			<AU>IANG DAOCHENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>258</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>parking</MC>
+			<MC>spot</MC>
+			<MC>lock</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LIU SHIGUO</AU>
+			<AU>HOU XIANGCHEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>259</NA>
+		<TI>
+			<MC>Outdoor</MC>
+			<MC>blind</MC>
+			<MC>guiding</MC>
+			<MC>robot</MC>
+			<MC>global</MC>
+			<MC>position</MC>
+			<MC>system</MC>
+			<MC>GPS</MC>
+			<MC>general</MC>
+			<MC>packet</MC>
+			<MC>radio</MC>
+			<MC>service</MC>
+			<MC>GPRS</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>navigational</MC>
+			<MC>positioning</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN CHAO</AU>
+			<AU>IU FANGHUA</AU>
+			<AU>ANG YANG</AU>
+			<AU>IAN LEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>260</NA>
+		<TI>
+			<MC>Combined</MC>
+			<MC>wine</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>counterfeiting</MC>
+			<MC>bottle</MC>
+			<MC>plug</MC>
+		</TI>
+		<AUS>
+			<AU>LIU JIANGUO</AU>
+			<AU>HEN QIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>261</NA>
+		<TI>
+			<MC>Dynamic</MC>
+			<MC>password</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>identifying</MC>
+			<MC>challenge</MC>
+			<MC>code</MC>
+		</TI>
+		<AUS>
+			<AU>WANG SIJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>262</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>production</MC>
+			<MC>line</MC>
+			<MC>supervision</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>GUO RUIBO</AU>
+			<AU>I LEI</AU>
+			<AU>HU ZHAOHUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>263</NA>
+		<TI>
+			<MC>Garbage</MC>
+			<MC>bag</MC>
+			<MC>RFID</MC>
+			<MC>Device</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>YUAN SHAOYAN</AU>
+			<AU>IA SHIYONG</AU>
+			<AU>AI TONGMIN</AU>
+			<AU>ENG XIANGBIN</AU>
+			<AU>U YIBIN</AU>
+			<AU>IU WEN</AU>
+			<AU>HEN ZHIXIONG</AU>
+			<AU>UANG JIAN</AU>
+			<AU>ANG PENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>264</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>encasement</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG JIANQIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>265</NA>
+		<TI>
+			<MC>Wireless</MC>
+			<MC>RFID</MC>
+			<MC>reading</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>LIU CHUNJIE</AU>
+			<AU>UANG ZHIDAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>266</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>physical</MC>
+			<MC>examination</MC>
+			<MC>information</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>XIA SHUN</AU>
+			<AU>U AILING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>267</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>Device</MC>
+			<MC>applied</MC>
+			<MC>automatic</MC>
+			<MC>registration</MC>
+			<MC>pilot</MC>
+			<MC>system</MC>
+			<MC>wedding</MC>
+			<MC>celebration</MC>
+		</TI>
+		<AUS>
+			<AU>JIN JUN</AU>
+			<AU>U MINGHAO</AU>
+			<AU>A RENZHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>268</NA>
+		<TI>
+			<MC>Quality</MC>
+			<MC>tracking</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LUO LING</AU>
+			<AU>ENG GANG</AU>
+			<AU>I QING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>269</NA>
+		<TI>
+			<MC>Filtering</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LIN SHENGNAN</AU>
+			<AU>U YONGHUI</AU>
+			<AU>HENG HAIPING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>270</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>bus</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>WANG FAN</AU>
+			<AU>U JIE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>271</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>enterprise</MC>
+			<MC>fixed</MC>
+			<MC>asset</MC>
+			<MC>transfer</MC>
+			<MC>prevention</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>YANG TAO</AU>
+			<AU>ANG JING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>272</NA>
+		<TI>
+			<MC>'One</MC>
+			<MC>tag</MC>
+			<MC>network'</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>data</MC>
+			<MC>registration</MC>
+			<MC>method</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>CUI JIANGUO</AU>
+			<AU>U JIAWANG</AU>
+			<AU>UI JIA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>273</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>meat</MC>
+			<MC>food</MC>
+			<MC>traceability</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>CAI XUDONG</AU>
+			<AU>UN LEI</AU>
+			<AU>UO LIMIN</AU>
+			<AU>AO XUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>274</NA>
+		<TI>
+			<MC>Graphic</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN SONGZHOU</AU>
+			<AU>UANG TIECHUN</AU>
+			<AU>HEN SIHAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>275</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>library</MC>
+			<MC>slanted</MC>
+			<MC>cavity</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN HORNG JI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>276</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>system</MC>
+			<MC>protecting</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>data</MC>
+		</TI>
+		<AUS>
+			<AU>JIANG SUIPING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>277</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG LUZHEN</AU>
+			<AU>HEN BOQIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>278</NA>
+		<TI>
+			<MC>Rectifying</MC>
+			<MC>circuit</MC>
+			<MC>RFID</MC>
+			<MC>chip</MC>
+		</TI>
+		<AUS>
+			<AU>LI LING</AU>
+			<AU>I HONGYAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>279</NA>
+		<TI>
+			<MC>Micro</MC>
+			<MC>strip</MC>
+			<MC>surface</MC>
+			<MC>mounted</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>LIU ZHIJIA</AU>
+			<AU>U GUOHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>280</NA>
+		<TI>
+			<MC>Microstrip</MC>
+			<MC>patch</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>LIU ZHIJIA</AU>
+			<AU>U GUOHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>281</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>wireless</MC>
+			<MC>logistics</MC>
+			<MC>temperature</MC>
+			<MC>monitoring</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>ZHOU YIMING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>282</NA>
+		<TI>
+			<MC>Omni</MC>
+			<MC>directional</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>antenna</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>AN WENXING</AU>
+			<AU>AN FANGZHENG</AU>
+			<AU>ANG BIN</AU>
+			<AU>ONG WEIXIN</AU>
+			<AU>ANG ZUOXING</AU>
+			<AU>ONG WEIJUN</AU>
+			<AU>I SHUFANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>283</NA>
+		<TI>
+			<MC>Novel</MC>
+			<MC>printer</MC>
+			<MC>RFID</MC>
+			<MC>control</MC>
+			<MC>module</MC>
+			<MC>intelligent</MC>
+			<MC>identification</MC>
+			<MC>function</MC>
+		</TI>
+		<AUS>
+			<AU>WU JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>284</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>identification</MC>
+			<MC>system</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>location</MC>
+		</TI>
+		<AUS>
+			<AU>SU WEIQIN</AU>
+			<AU>HAO XIANGDONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>285</NA>
+		<TI>
+			<MC>Mobile</MC>
+			<MC>communication</MC>
+			<MC>terminal</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>function</MC>
+		</TI>
+		<AUS>
+			<AU>JIANG ZHIYONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>286</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>system</MC>
+			<MC>supervising</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>card</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN SHANHUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>287</NA>
+		<TI>
+			<MC>Radio</MC>
+			<MC>frequency</MC>
+			<MC>identifier</MC>
+			<MC>structure</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>XU ZHEN DE 
+		</AU>
+			<AU>DAI YU JUN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>288</NA>
+		<TI>
+			<MC>Printed</MC>
+			<MC>RFID</MC>
+			<MC>rfid</MC>
+			<MC>tag</MC>
+			<MC>tags</MC>
+			<MC>talk</MC>
+			<MC>frist</MC>
+			<MC>ttf</MC>
+			<MC>protocol</MC>
+		</TI>
+		<AUS>
+			<AU>VIVEK SUBRAMANIAN 
+		</AU>
+			<AU>VIKRAM PAVATE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>IN</PA>
+			<PA>IN</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>289</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>DETERMINING</MC>
+			<MC>LOCATION</MC>
+			<MC>ITEM</MC>
+			<MC>ATTACHED</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>JAIN BINIT 
+		</AU>
+			<AU>EKL RANDY L 
+		</AU>
+			<AU>GRIESMANN DANIEL S 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>290</NA>
+		<TI>
+			<MC>Attendance</MC>
+			<MC>access</MC>
+			<MC>control</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>SHANG LI NA</AU>
+			<AU>U ZHIPENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>291</NA>
+		<TI>
+			<MC>Automatic</MC>
+			<MC>navigation</MC>
+			<MC>shopping</MC>
+			<MC>trolley</MC>
+			<MC>active</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LI GUANYI</AU>
+			<AU>IN ZHENZHOU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>292</NA>
+		<TI>
+			<MC>Bank</MC>
+			<MC>card</MC>
+			<MC>fake</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>WANG HUIRAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>293</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>metering</MC>
+			<MC>seal</MC>
+		</TI>
+		<AUS>
+			<AU>LI SHIQI</AU>
+			<AU>ANG HONGCANG</AU>
+			<AU>IN YUELING</AU>
+			<AU>HONG JIANJIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>294</NA>
+		<TI>
+			<MC>Plant</MC>
+			<MC>vehicle</MC>
+			<MC>staff</MC>
+			<MC>attendance</MC>
+			<MC>system</MC>
+			<MC>ultrahigh</MC>
+			<MC>frequency</MC>
+			<MC>passive</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>XU JIAN</AU>
+			<AU>I YUNFEI</AU>
+			<AU>HEN LIANG</AU>
+			<AU>ANG YOUCAI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>295</NA>
+		<TI>
+			<MC>Communication</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>WU QI</AU>
+			<AU>U YUN</AU>
+			<AU>IU JINDONG</AU>
+			<AU>ANG XUGUANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>296</NA>
+		<TI>
+			<MC>Tag</MC>
+			<MC>transaction</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LEI BO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>297</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>card</MC>
+			<MC>issuing</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG XIANGXI</AU>
+			<AU>UI MEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>298</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>CHOI SU NA 
+		</AU>
+			<AU>KIM HYUN SEOK 
+		</AU>
+			<AU>LEE HEYUNG SUB 
+		</AU>
+			<AU>PYO CHEOL SIG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>299</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>SYSTEM</MC>
+			<MC>METHOD</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG KE</AU>
+			<AU>UJITA TOMOYUKI</AU>
+			<AU>SUEH MIN YU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>300</NA>
+		<TI>
+			<MC>COMBINATION</MC>
+			<MC>RFID</MC>
+			<MC>ELECTRONIC</MC>
+			<MC>ARTICLE</MC>
+			<MC>SURVEILLANCE</MC>
+			<MC>ANTENNA</MC>
+			<MC>SYSTEM</MC>
+		</TI>
+		<AUS>
+			<AU>CAMPERO RICHARD JOHN 
+		</AU>
+			<AU>JIANG BING 
+		</AU>
+			<AU>TRIVELPIECE STEVE E 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>301</NA>
+		<TI>
+			<MC>ADAPTING</MC>
+			<MC>RFID</MC>
+			<MC>READER</MC>
+			<MC>POWER</MC>
+			<MC>LEVELS</MC>
+		</TI>
+		<AUS>
+			<AU>CALVARESE RUSSELL E 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>302</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>Protective</MC>
+			<MC>Liners</MC>
+			<MC>Clothing</MC>
+			<MC>Bags</MC>
+			<MC>Carrying</MC>
+			<MC>Gear</MC>
+		</TI>
+		<AUS>
+			<AU>JORDAN MARIE S 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>303</NA>
+		<TI>
+			<MC>Anti</MC>
+			<MC>collision</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+			<MC>power</MC>
+			<MC>control</MC>
+		</TI>
+		<AUS>
+			<AU>LI JIANXIONG</AU>
+			<AU>U YIMIN</AU>
+			<AU>U HAITAO</AU>
+			<AU>UAN BENLIANG</AU>
+			<AU>IAO KANG</AU>
+			<AU>HEN MINGXING</AU>
+			<AU>AO WANWAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>304</NA>
+		<TI>
+			<MC>Tire</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>BI XUESONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>305</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>gamepad</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>function</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN DERONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>306</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>fractal</MC>
+			<MC>spring</MC>
+			<MC>structure</MC>
+			<MC>radio</MC>
+			<MC>frequency</MC>
+			<MC>antenna</MC>
+			<MC>fractal</MC>
+			<MC>spring</MC>
+			<MC>structure</MC>
+			<MC>preparation</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG YONGAN</AU>
+			<AU>IN ZHOUPING</AU>
+			<AU>ONG WENTAO</AU>
+			<AU>ANG YEZHOU</AU>
+			<AU>IU HUIMIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>307</NA>
+		<TI>
+			<MC>Real</MC>
+			<MC>time</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>Devices</MC>
+			<MC>safety</MC>
+			<MC>helmet</MC>
+			<MC>application</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>HU JINSONG</AU>
+			<AU>HAO GUOQIANG</AU>
+			<AU>HEN LISHENG</AU>
+			<AU>AO HUA</AU>
+			<AU>HEN JIEHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>308</NA>
+		<TI>
+			<MC>Multi</MC>
+			<MC>label</MC>
+			<MC>anticollision</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>PANG YU</AU>
+			<AU>IN JINCHAO</AU>
+			<AU>ONG DELONG</AU>
+			<AU>I ZHANGYONG</AU>
+			<AU>ENG QI</AU>
+			<AU>HOU QIANNENG</AU>
+			<AU>UO ZHIYONG</AU>
+			<AU>EN YI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>309</NA>
+		<TI>
+			<MC>Low</MC>
+			<MC>power</MC>
+			<MC>consumption</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>localizable</MC>
+			<MC>passive</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>DAI GUOJUN</AU>
+			<AU>ENG HONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>310</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>museum</MC>
+			<MC>visitor</MC>
+			<MC>information</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>ZHOU XIAOLI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>311</NA>
+		<TI>
+			<MC>Museum</MC>
+			<MC>entrance</MC>
+			<MC>guard</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHOU XIAOLI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>312</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>transponder</MC>
+			<MC>ultra</MC>
+			<MC>high</MC>
+			<MC>frequency</MC>
+			<MC>UHF</MC>
+			<MC>band</MC>
+		</TI>
+		<AUS>
+			<AU>WANG JUNJIE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>313</NA>
+		<TI>
+			<MC>School</MC>
+			<MC>bus</MC>
+			<MC>ride</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>QIAN GUOPING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>314</NA>
+		<TI>
+			<MC>Clothing</MC>
+			<MC>identification</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU AIFEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>315</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>frequency</MC>
+			<MC>tunability</MC>
+		</TI>
+		<AUS>
+			<AU>LIU JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>316</NA>
+		<TI>
+			<MC>UHF</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>antenna</MC>
+			<MC>utilization</MC>
+			<MC>photovoltaic</MC>
+			<MC>solar</MC>
+			<MC>cell</MC>
+		</TI>
+		<AUS>
+			<AU>LIU JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>317</NA>
+		<TI>
+			<MC>Spectacles</MC>
+			<MC>RFID</MC>
+			<MC>labels</MC>
+			<MC>system</MC>
+			<MC>comprising</MC>
+			<MC>spectacles</MC>
+		</TI>
+		<AUS>
+			<AU>CAI XUDONG</AU>
+			<AU>UO LIMIN</AU>
+			<AU>AO XUAN</AU>
+			<AU>UN LEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>318</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG XINBEI</AU>
+			<AU>UN ZONGYUAN</AU>
+			<AU>IAO DAHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>319</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>controller</MC>
+		</TI>
+		<AUS>
+			<AU>LIU ZEFENG</AU>
+			<AU>ANG XIAOHUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>320</NA>
+		<TI>
+			<MC>Flavor</MC>
+			<MC>fragrance</MC>
+			<MC>information</MC>
+			<MC>calibration</MC>
+			<MC>system</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LI XIAOGANG</AU>
+			<AU>IANG LIN</AU>
+			<AU>HANG WEI</AU>
+			<AU>HEN QINGPING</AU>
+			<AU>UO JIANHUA</AU>
+			<AU>HAN JIANSHENG</AU>
+			<AU>A JIANHUA</AU>
+			<AU>IANG SHIHE</AU>
+			<AU>HANG YIFENG</AU>
+			<AU>ONG XUDONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>321</NA>
+		<TI>
+			<MC>Finished</MC>
+			<MC>cattle</MC>
+			<MC>quality</MC>
+			<MC>safety</MC>
+			<MC>feeding</MC>
+			<MC>management</MC>
+			<MC>method</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>GAO ANSHE</AU>
+			<AU>EN YONGCHUN</AU>
+			<AU>I LINGYUN</AU>
+			<AU>A JIHUAN</AU>
+			<AU>I YUANZHE</AU>
+			<AU>U YU</AU>
+			<AU>IAN RUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>322</NA>
+		<TI>
+			<MC>Peripheral</MC>
+			<MC>intelligent</MC>
+			<MC>reader</MC>
+			<MC>RFID</MC>
+			<MC>recognition</MC>
+			<MC>function</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN DERONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>323</NA>
+		<TI>
+			<MC>Test</MC>
+			<MC>system</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>subscriber</MC>
+			<MC>identity</MC>
+			<MC>module</MC>
+			<MC>SIM</MC>
+			<MC>card</MC>
+		</TI>
+		<AUS>
+			<AU>YANG HONGMIN</AU>
+			<AU>UANG ZHIYONG</AU>
+			<AU>ANG JING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>324</NA>
+		<TI>
+			<MC>Integrated</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>shoe</MC>
+			<MC>production</MC>
+			<MC>method</MC>
+			<MC>shoe</MC>
+			<MC>tree</MC>
+			<MC>connecting</MC>
+			<MC>piece</MC>
+			<MC>special</MC>
+			<MC>integrated</MC>
+			<MC>RFID</MC>
+			<MC>shoe</MC>
+		</TI>
+		<AUS>
+			<AU>YANG CHONGGUO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>325</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>Internet</MC>
+			<MC>things</MC>
+			<MC>marketing</MC>
+			<MC>application</MC>
+			<MC>tenebrio</MC>
+			<MC>molitor</MC>
+			<MC>breeding</MC>
+			<MC>factory</MC>
+			<MC>chicken</MC>
+			<MC>farm</MC>
+		</TI>
+		<AUS>
+			<AU>MIAO TONGCHUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>326</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>LI WENZHANG</AU>
+			<AU>ENG ZHAOMIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>327</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>light</MC>
+			<MC>regulating</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>LI WENZHANG</AU>
+			<AU>ENG ZHAOMIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>328</NA>
+		<TI>
+			<MC>Library</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>YANG XIAOLEI</AU>
+			<AU>AI XUDONG</AU>
+			<AU>IANG HUIQI</AU>
+			<AU>UO LIMIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>329</NA>
+		<TI>
+			<MC>Target</MC>
+			<MC>moving</MC>
+			<MC>monitoring</MC>
+			<MC>navigation</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>application</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>YUE JUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>330</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>including</MC>
+			<MC>dimensional</MC>
+			<MC>loop</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>ROBERT A SAINATI</AU>
+			<AU>AVID K MISEMER</AU>
+			<AU>ILLIAM C EGBERT</AU>
+			<AU>WAGATA R BANERJEE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>331</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>evaluating</MC>
+			<MC>structural</MC>
+			<MC>integrity</MC>
+			<MC>vehicle</MC>
+			<MC>component</MC>
+			<MC>RFID</MC>
+			<MC>tags</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>EZZAT HESHAM A</AU>
+			<AU>ANG PEI CHUNG</AU>
+			<AU>ANNON MARCEL R</AU>
+			<AU>ANG KANGPING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>332</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+		</TI>
+		<AUS>
+			<AU>TAN XI</AU>
+			<AU>UN XIAOXIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>333</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>rapid</MC>
+			<MC>positioning</MC>
+			<MC>annular</MC>
+			<MC>track</MC>
+			<MC>conveying</MC>
+			<MC>vehicle</MC>
+		</TI>
+		<AUS>
+			<AU>XU YU</AU>
+			<AU>HOU YUAN</AU>
+			<AU>U CHUNHONG</AU>
+			<AU>U XIAOYANG</AU>
+			<AU>HANG CANFENG</AU>
+			<AU>EN YANG</AU>
+			<AU>ANG HUIFEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>334</NA>
+		<TI>
+			<MC>TRANSFERABLE</MC>
+			<MC>RFID</MC>
+			<MC>LABEL</MC>
+			<MC>TAG</MC>
+		</TI>
+		<AUS>
+			<AU>MULLIS JOE 
+		</AU>
+			<AU>GONZALEZ STEVE 
+		</AU>
+			<AU>OLANOFF EMILY 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>335</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>Apparatus</MC>
+			<MC>Power</MC>
+			<MC>Management</MC>
+			<MC>RFID</MC>
+			<MC>System</MC>
+		</TI>
+		<AUS>
+			<AU>MOSHFEGHI MEHRAN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>336</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>APPARATUS</MC>
+			<MC>OPTIMIZING</MC>
+			<MC>MANAGEMENT</MC>
+			<MC>CONFIGURATION</MC>
+			<MC>RFID</MC>
+			<MC>READERS</MC>
+		</TI>
+		<AUS>
+			<AU>SUBRAMANIAN PANCHAPAKESAN V 
+		</AU>
+			<AU>O'HAIRE MICHAEL 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>337</NA>
+		<TI>
+			<MC>UHF</MC>
+			<MC>RFID</MC>
+			<MC>insert</MC>
+			<MC>identification</MC>
+			<MC>wood</MC>
+			<MC>antenna</MC>
+			<MC>interior</MC>
+			<MC>part</MC>
+			<MC>UHF</MC>
+			<MC>RFID</MC>
+			<MC>chip</MC>
+			<MC>clipping</MC>
+			<MC>tabs</MC>
+			<MC>provided</MC>
+			<MC>insert</MC>
+			<MC>supporting</MC>
+			<MC>antenna</MC>
+			<MC>chip</MC>
+		</TI>
+		<AUS>
+			<AU>LEUVREY BERNARD ABEL ANDRE 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>338</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>ticket</MC>
+			<MC>validation</MC>
+			<MC>activation</MC>
+			<MC>seat</MC>
+			<MC>reservation</MC>
+			<MC>railway</MC>
+			<MC>traffic</MC>
+			<MC>involves</MC>
+			<MC>linking</MC>
+			<MC>positing</MC>
+			<MC>date</MC>
+			<MC>RFIDtag</MC>
+			<MC>integrated</MC>
+			<MC>ticket</MC>
+			<MC>tag</MC>
+			<MC>activation</MC>
+			<MC>ticket</MC>
+			<MC>reservation</MC>
+		</TI>
+		<AUS>
+			<AU>HOERNIS MAXIMILIAN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>339</NA>
+		<TI>
+			<MC>MULTISTATIC</MC>
+			<MC>ANTENNA</MC>
+			<MC>CONFIGURATION</MC>
+			<MC>RFID</MC>
+			<MC>SYSTEMS</MC>
+		</TI>
+		<AUS>
+			<AU>CARRENDER CURTIS L 
+		</AU>
+			<AU>PRICE JOHN MICHAEL 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>340</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>module</MC>
+		</TI>
+		<AUS>
+			<AU>LIN HSIN LUNG 
+		</AU>
+			<AU>LIN MING CHUNG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>341</NA>
+		<TI>
+			<MC>Wireless</MC>
+			<MC>RFID</MC>
+			<MC>apparatus</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG SHU RU 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>342</NA>
+		<TI>
+			<MC>Light</MC>
+			<MC>adjusting</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LI WEN ZHANG 
+		</AU>
+			<AU>PENG ZHAO MIN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>343</NA>
+		<TI>
+			<MC>Wireless</MC>
+			<MC>RFID</MC>
+			<MC>apparatus</MC>
+		</TI>
+		<AUS>
+			<AU>LI WEN ZHANG 
+		</AU>
+			<AU>PENG ZHAO MIN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>344</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>structure</MC>
+			<MC>cargo</MC>
+			<MC>container</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG SHU RU 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>345</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>BOLOTIN LEV M 
+		</AU>
+			<AU>JOHNSON SIMON B 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>346</NA>
+		<TI>
+			<MC>Device</MC>
+			<MC>implementation</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+			<MC>identifying</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tags</MC>
+			<MC>Pad</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN XIANLONG</AU>
+			<AU>IANG CHUNHUA</AU>
+			<AU>HEN XIAOLONG</AU>
+			<AU>HENG QIYI</AU>
+			<AU>IU RENYI</AU>
+			<AU>UO XINWEI</AU>
+			<AU>ANG ZHIPENG</AU>
+			<AU>UN ZHAOQIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>347</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>capable</MC>
+			<MC>automatically</MC>
+			<MC>sleeping</MC>
+			<MC>automatically</MC>
+			<MC>starting</MC>
+		</TI>
+		<AUS>
+			<AU>XIAO ZHEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>348</NA>
+		<TI>
+			<MC>System</MC>
+			<MC>method</MC>
+			<MC>visual</MC>
+			<MC>inspection</MC>
+			<MC>burrs</MC>
+			<MC>stain</MC>
+			<MC>defects</MC>
+			<MC>RFID</MC>
+			<MC>antennae</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN JIANKUI</AU>
+			<AU>HONG QIANGLONG</AU>
+			<AU>ANG HANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>349</NA>
+		<TI>
+			<MC>Ultra</MC>
+			<MC>low</MC>
+			<MC>power</MC>
+			<MC>consumption</MC>
+			<MC>low</MC>
+			<MC>dropout</MC>
+			<MC>stabilized</MC>
+			<MC>voltage</MC>
+			<MC>supply</MC>
+			<MC>circuit</MC>
+			<MC>RFID</MC>
+			<MC>tags</MC>
+		</TI>
+		<AUS>
+			<AU>WU BIAN</AU>
+			<AU>U WEI</AU>
+			<AU>AN FUQIANG</AU>
+			<AU>I YIHU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>350</NA>
+		<TI>
+			<MC>Logistic</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>XU LINGLING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>351</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>shelf</MC>
+		</TI>
+		<AUS>
+			<AU>QIAN CUISHI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>352</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>delivery</MC>
+			<MC>warehousing</MC>
+			<MC>device</MC>
+			<MC>electrical</MC>
+			<MC>energy</MC>
+			<MC>metering</MC>
+			<MC>equipment</MC>
+		</TI>
+		<AUS>
+			<AU>YAN ANXIN</AU>
+			<AU>UANG QIFENG</AU>
+			<AU>ANG XIAOHU</AU>
+			<AU>ANG ZHONGDONG</AU>
+			<AU>AI QIXIN</AU>
+			<AU>UN CHUNJUN</AU>
+			<AU>I WEISHANG</AU>
+			<AU>HAO BENLIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>353</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>mobile</MC>
+			<MC>phone</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG BIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>354</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>monitoring</MC>
+			<MC>equipment</MC>
+		</TI>
+		<AUS>
+			<AU>JIANG SHIMIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>355</NA>
+		<TI>
+			<MC>Vehicle</MC>
+			<MC>identification</MC>
+			<MC>base</MC>
+			<MC>station</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>XU GUANGJUN</AU>
+			<AU>AO XUAN</AU>
+			<AU>UO LIMIN</AU>
+			<AU>ANG XIAOLEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>356</NA>
+		<TI>
+			<MC>Personnel</MC>
+			<MC>location</MC>
+			<MC>system</MC>
+			<MC>active</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>integrated</MC>
+			<MC>component</MC>
+		</TI>
+		<AUS>
+			<AU>GUO LIMIN</AU>
+			<AU>AO XUAN</AU>
+			<AU>ONG XIAO</AU>
+			<AU>U GUANGJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>357</NA>
+		<TI>
+			<MC>Medical</MC>
+			<MC>waste</MC>
+			<MC>processing</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>GUO LIMIN</AU>
+			<AU>AO XUAN</AU>
+			<AU>AI XUDONG</AU>
+			<AU>U GUANGJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>358</NA>
+		<TI>
+			<MC>Prison</MC>
+			<MC>personnel</MC>
+			<MC>recognition</MC>
+			<MC>wrist</MC>
+			<MC>strap</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>GUO LIMIN</AU>
+			<AU>AO XUAN</AU>
+			<AU>U GUANGJUN</AU>
+			<AU>ANG XIAOLEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>359</NA>
+		<TI>
+			<MC>Special</MC>
+			<MC>patient</MC>
+			<MC>electronic</MC>
+			<MC>medical</MC>
+			<MC>record</MC>
+			<MC>card</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RPID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>CAI XUDONG</AU>
+			<AU>UO LIMIN</AU>
+			<AU>AO XUAN</AU>
+			<AU>UN LEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>360</NA>
+		<TI>
+			<MC>Coal</MC>
+			<MC>mine</MC>
+			<MC>personnel</MC>
+			<MC>positioning</MC>
+			<MC>label</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>GUO LIMIN</AU>
+			<AU>AO XUAN</AU>
+			<AU>UN LEI</AU>
+			<AU>ANG XIAOLEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>361</NA>
+		<TI>
+			<MC>Fixed</MC>
+			<MC>asset</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>GUO LIMIN</AU>
+			<AU>IANG HUIQI</AU>
+			<AU>AI XUDONG</AU>
+			<AU>AO XUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>362</NA>
+		<TI>
+			<MC>Baby</MC>
+			<MC>theft</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>GUO LIMIN</AU>
+			<AU>AI XUDONG</AU>
+			<AU>IANG HUIQI</AU>
+			<AU>AO XUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>363</NA>
+		<TI>
+			<MC>Safe</MC>
+			<MC>payment</MC>
+			<MC>pattern</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>intelligent</MC>
+			<MC>payment</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>KONG QINGZUO</AU>
+			<AU>U ZHAOXIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>364</NA>
+		<TI>
+			<MC>Integrated</MC>
+			<MC>card</MC>
+			<MC>reading</MC>
+			<MC>cabinet</MC>
+			<MC>lock</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU MEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>365</NA>
+		<TI>
+			<MC>Online</MC>
+			<MC>message</MC>
+			<MC>method</MC>
+			<MC>facing</MC>
+			<MC>wireless</MC>
+			<MC>RFID</MC>
+			<MC>mobile</MC>
+			<MC>terminal</MC>
+			<MC>system</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG SONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>366</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>label</MC>
+			<MC>lock</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LI AN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>367</NA>
+		<TI>
+			<MC>System</MC>
+			<MC>general</MC>
+			<MC>packet</MC>
+			<MC>radio</MC>
+			<MC>service</MC>
+			<MC>GPRS</MC>
+			<MC>wireless</MC>
+			<MC>communication</MC>
+			<MC>bar</MC>
+			<MC>code</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>integration</MC>
+			<MC>technique</MC>
+			<MC>terminal</MC>
+		</TI>
+		<AUS>
+			<AU>WU SHAOZHI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>368</NA>
+		<TI>
+			<MC>Voice</MC>
+			<MC>blind</MC>
+			<MC>guiding</MC>
+			<MC>robot</MC>
+			<MC>multiple</MC>
+			<MC>sensors</MC>
+			<MC>RFID</MC>
+			<MC>route</MC>
+			<MC>planning</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN CHAO</AU>
+			<AU>IN ZUGUANG</AU>
+			<AU>ANG JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>369</NA>
+		<TI>
+			<MC>Account</MC>
+			<MC>security</MC>
+			<MC>protection</MC>
+			<MC>method</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>subscriber</MC>
+			<MC>identity</MC>
+			<MC>module</MC>
+			<MC>SIM</MC>
+			<MC>card</MC>
+		</TI>
+		<AUS>
+			<AU>LIU RUOPENG</AU>
+			<AU>IU JINGJING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>370</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>subscriber</MC>
+			<MC>identity</MC>
+			<MC>module</MC>
+			<MC>SIM</MC>
+			<MC>mobile</MC>
+			<MC>communication</MC>
+			<MC>system</MC>
+			<MC>method</MC>
+			<MC>distance</MC>
+			<MC>judgment</MC>
+			<MC>RFID</MC>
+			<MC>SIM</MC>
+			<MC>mobile</MC>
+			<MC>communication</MC>
+		</TI>
+		<AUS>
+			<AU>LIU RUOPENG</AU>
+			<AU>IU JINGJING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>371</NA>
+		<TI>
+			<MC>Communication</MC>
+			<MC>system</MC>
+			<MC>communication</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>subscriber</MC>
+			<MC>identity</MC>
+			<MC>module</MC>
+			<MC>RFID</MC>
+			<MC>SIM</MC>
+			<MC>mobile</MC>
+			<MC>terminal</MC>
+		</TI>
+		<AUS>
+			<AU>LIU RUOPENG</AU>
+			<AU>IU JINGJING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>372</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>antenna</MC>
+			<MC>signal</MC>
+			<MC>rectifying</MC>
+			<MC>circuit</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG YOUHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>373</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>antenna</MC>
+			<MC>signal</MC>
+			<MC>source</MC>
+			<MC>dual</MC>
+			<MC>functional</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG YOUHUA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>374</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>device</MC>
+			<MC>transmitting</MC>
+			<MC>data</MC>
+			<MC>passive</MC>
+			<MC>ultra</MC>
+			<MC>high</MC>
+			<MC>frequency</MC>
+			<MC>RFID</MC>
+			<MC>UHF</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>LI HAIFENG</AU>
+			<AU>HANG ZHAOFENG</AU>
+			<AU>HANG NANPING</AU>
+			<AU>ANG CHUNYI</AU>
+			<AU>U XUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>375</NA>
+		<TI>
+			<MC>DUAL</MC>
+			<MC>MODE</MC>
+			<MC>CHIP</MC>
+			<MC>RFID</MC>
+			<MC>ELECTRONIC</MC>
+			<MC>ARTICLE</MC>
+			<MC>SURVEILLANCE</MC>
+			<MC>CAPABILITY</MC>
+		</TI>
+		<AUS>
+			<AU>FORSTER IAN J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>376</NA>
+		<TI>
+			<MC>IDENTIFICATION</MC>
+			<MC>DEVICE</MC>
+			<MC>RADIO</MC>
+			<MC>FREQUENCY</MC>
+			<MC>SIGNAL</MC>
+		</TI>
+		<AUS/>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>377</NA>
+		<TI>
+			<MC>SUSPENDABLE</MC>
+			<MC>PACKAGES</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>SYKKOE TUOMAS 
+		</AU>
+			<AU>WYTHE THOMAS 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FI</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>378</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>reading</MC>
+			<MC>RFID</MC>
+			<MC>tags</MC>
+			<MC>mass</MC>
+			<MC>data</MC>
+		</TI>
+		<AUS>
+			<AU>HE JINGSHA</AU>
+			<AU>HANG HANG</AU>
+			<AU>HAO BIN</AU>
+			<AU>OU PEIPEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>379</NA>
+		<TI>
+			<MC>Public</MC>
+			<MC>key</MC>
+			<MC>bidirectional</MC>
+			<MC>RFID</MC>
+			<MC>authorization</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>DONG QINGKUAN</AU>
+			<AU>EI LILI</AU>
+			<AU>ING WENXIU</AU>
+			<AU>I XIAOPING</AU>
+			<AU>IU YANMING</AU>
+			<AU>HAO LEI</AU>
+			<AU>I JIANBING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>380</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>multichannel</MC>
+			<MC>data</MC>
+			<MC>interface</MC>
+			<MC>data</MC>
+			<MC>transmission</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>SONG HONGTAO</AU>
+			<AU>IU HONGYI</AU>
+			<AU>HAO YUNLONG</AU>
+			<AU>IU HAIBO</AU>
+			<AU>AN HAIYAN</AU>
+			<AU>HENG XUHUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>381</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>Device</MC>
+			<MC>technology</MC>
+			<MC>dynamic</MC>
+			<MC>tool</MC>
+			<MC>management</MC>
+			<MC>method</MC>
+			<MC>Siemens</MC>
+			<MC>840D</MC>
+			<MC>numerical</MC>
+			<MC>control</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>LI PENGZHONG</AU>
+			<AU>HANG WEIMIN</AU>
+			<AU>HENG MENG</AU>
+			<AU>I YANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>382</NA>
+		<TI>
+			<MC>Implementation</MC>
+			<MC>system</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>middleware</MC>
+		</TI>
+		<AUS>
+			<AU>ZHAO MING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>383</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>mutual</MC>
+			<MC>authentication</MC>
+			<MC>protocol</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG GUOAN</AU>
+			<AU>U ZONGYIN</AU>
+			<AU>UAN HONGLIN</AU>
+			<AU>AO ZHIHUA</AU>
+			<AU>U CHEN</AU>
+			<AU>I YANCHENG</AU>
+			<AU>IU GONGAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>384</NA>
+		<TI>
+			<MC>Passive</MC>
+			<MC>RFID</MC>
+			<MC>Devices</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+			<MC>high</MC>
+			<MC>reliability</MC>
+			<MC>UHF</MC>
+			<MC>Ultra</MC>
+			<MC>High</MC>
+			<MC>Frequency</MC>
+			<MC>read</MC>
+			<MC>write</MC>
+			<MC>control</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>HE YU</AU>
+			<AU>A JUNLING</AU>
+			<AU>UN WEIHUA</AU>
+			<AU>I SHICHENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>385</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>Devices</MC>
+			<MC>elevator</MC>
+			<MC>monitoring</MC>
+			<MC>control</MC>
+			<MC>panel</MC>
+		</TI>
+		<AUS>
+			<AU>ZHOU BAOZHONG</AU>
+			<AU>HI FEI</AU>
+			<AU>ANG YANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>386</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>counterfeiting</MC>
+			<MC>bottle</MC>
+			<MC>cap</MC>
+		</TI>
+		<AUS>
+			<AU>XU JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>387</NA>
+		<TI>
+			<MC>Network</MC>
+			<MC>module</MC>
+			<MC>applied</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG HUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>388</NA>
+		<TI>
+			<MC>Near</MC>
+			<MC>field</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>antenna</MC>
+		</TI>
+		<AUS>
+			<AU>FENG CHUNNAN</AU>
+			<AU>HANG XIN</AU>
+			<AU>U JIANG</AU>
+			<AU>ANG JINLONG</AU>
+			<AU>A TAO</AU>
+			<AU>U QUN</AU>
+			<AU>ING XUMIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>389</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>car</MC>
+			<MC>safety</MC>
+			<MC>theft</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>ZHAO XIAOYUAN</AU>
+			<AU>AN SHUNCHUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>390</NA>
+		<TI>
+			<MC>Electronic</MC>
+			<MC>tag</MC>
+			<MC>echo</MC>
+			<MC>signal</MC>
+			<MC>receiving</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>GUO SHUQIANG</AU>
+			<AU>U JIANJUN</AU>
+			<AU>IU XIANGGUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>391</NA>
+		<TI>
+			<MC>Welfare</MC>
+			<MC>house</MC>
+			<MC>people</MC>
+			<MC>care</MC>
+			<MC>card</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>CAI XUDONG</AU>
+			<AU>UO LIMIN</AU>
+			<AU>ANG XIAOLEI</AU>
+			<AU>ONG XIAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>392</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>compatible</MC>
+			<MC>Type</MC>
+			<MC>protocol</MC>
+			<MC>Type</MC>
+			<MC>B</MC>
+			<MC>protocol</MC>
+		</TI>
+		<AUS>
+			<AU>HU JIANGUO</AU>
+			<AU>U CHONG</AU>
+			<AU>UAN ZHIKUI</AU>
+			<AU>U JIN</AU>
+			<AU>V FENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>393</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>Devices</MC>
+			<MC>smart</MC>
+			<MC>card</MC>
+			<MC>digital</MC>
+			<MC>baseband</MC>
+			<MC>verification</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>HU JIANGUO</AU>
+			<AU>AN JUANYAN</AU>
+			<AU>HEN XUEFEI</AU>
+			<AU>ANG DEMING</AU>
+			<AU>UAN ZHIKUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>394</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>RFID</MC>
+			<MC>payment</MC>
+			<MC>terminal</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>KONG QINGZUO</AU>
+			<AU>U ZHAOXIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>395</NA>
+		<TI>
+			<MC>Wireless</MC>
+			<MC>communication</MC>
+			<MC>method</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>reader</MC>
+		</TI>
+		<AUS>
+			<AU>GUO YI</AU>
+			<AU>ING XUAN</AU>
+			<AU>ANG LEI</AU>
+			<AU>IU TIANCI</AU>
+			<AU>IU YUNHAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>396</NA>
+		<TI>
+			<MC>FRID</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>combined</MC>
+			<MC>fake</MC>
+			<MC>bottle</MC>
+			<MC>plug</MC>
+			<MC>grape</MC>
+			<MC>wine</MC>
+		</TI>
+		<AUS>
+			<AU>LIU JIANGUO</AU>
+			<AU>HEN QIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>397</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>device</MC>
+			<MC>RFIDRFID</MC>
+			<MC>access</MC>
+			<MC>control</MC>
+		</TI>
+		<AUS>
+			<AU>LI HAIFENG</AU>
+			<AU>HANG ZHAOFENG</AU>
+			<AU>HANG NANPING</AU>
+			<AU>ANG CHUNYI</AU>
+			<AU>U XUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>398</NA>
+		<TI>
+			<MC>HYBRID</MC>
+			<MC>ARCHITECTURE</MC>
+			<MC>RFID</MC>
+			<MC>PACKET</MC>
+			<MC>RADIO</MC>
+			<MC>COMMUNICATION</MC>
+		</TI>
+		<AUS>
+			<AU>ALICOT JORGE F 
+		</AU>
+			<AU>MOHIUDDIN MOHAMMAD 
+		</AU>
+			<AU>RELIHAN TIMOTHY J 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>399</NA>
+		<TI>
+			<MC>ASSETS</MC>
+			<MC>PERSONNEL</MC>
+			<MC>TRACKING</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>KULINETS JOSEPH M 
+		</AU>
+			<AU>NUYTKENS PETER R 
+		</AU>
+			<AU>VENKATESH ARVIND K 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>400</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>RAPTIS MARK 
+		</AU>
+			<AU>ROSS GRAHAM 
+		</AU>
+		</AUS>
+		<DP>2012</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>401</NA>
+		<TI>
+			<MC>Metering</MC>
+			<MC>system</MC>
+			<MC>i.e.</MC>
+			<MC>meter</MC>
+			<MC>measuring</MC>
+			<MC>distance</MC>
+			<MC>traveled</MC>
+			<MC>sportsman</MC>
+			<MC>swimming</MC>
+			<MC>passive</MC>
+			<MC>RFID</MC>
+			<MC>transmission</MC>
+			<MC>unit</MC>
+			<MC>carrying</MC>
+			<MC>tags</MC>
+			<MC>broadcasting</MC>
+			<MC>identity</MC>
+			<MC>terminals</MC>
+			<MC>response</MC>
+			<MC>power</MC>
+			<MC>supply</MC>
+		</TI>
+		<AUS>
+			<AU>MARCHAND SOPHIE 
+		</AU>
+			<AU>ANDERSEN CLAIRE 
+		</AU>
+			<AU>MEREL MATHIEU 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FR</PA>
+			<PA>FR</PA>
+			<PA>FR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>402</NA>
+		<TI>
+			<MC>In</MC>
+			<MC>mold</MC>
+			<MC>label</MC>
+			<MC>RFID</MC>
+			<MC>arrangement</MC>
+			<MC>base</MC>
+			<MC>comprises</MC>
+			<MC>front</MC>
+			<MC>side</MC>
+			<MC>rear</MC>
+			<MC>side</MC>
+			<MC>RFID</MC>
+			<MC>unit</MC>
+			<MC>arranged</MC>
+			<MC>rear</MC>
+			<MC>side</MC>
+			<MC>base</MC>
+		</TI>
+		<AUS>
+			<AU>SCHNOOR ULRICH 
+		</AU>
+			<AU>LAGEMANN LUTZ 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>DE</PA>
+			<PA>DE</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>403</NA>
+		<TI>
+			<MC>Automatic</MC>
+			<MC>payment</MC>
+			<MC>rotation</MC>
+			<MC>meal</MC>
+			<MC>supply</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>YING XIANGYANG</AU>
+			<AU>AI ZESEN</AU>
+			<AU>UANG DEQI</AU>
+			<AU>HEN YI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>404</NA>
+		<TI>
+			<MC>RFID?technology</MC>
+			<MC>content</MC>
+			<MC>composer</MC>
+			<MC>dynamic</MC>
+			<MC>display</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>HU SHILIN</AU>
+			<AU>UAN YUANYIN</AU>
+			<AU>UAN YONG</AU>
+			<AU>IU DENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>405</NA>
+		<TI>
+			<MC>RFID?technology</MC>
+			<MC>display?controller</MC>
+			<MC>dynamic</MC>
+			<MC>display</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>HU SHILIN</AU>
+			<AU>UAN YUANYIN</AU>
+			<AU>UAN YONG</AU>
+			<AU>IU DENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>406</NA>
+		<TI>
+			<MC>Pump</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>function</MC>
+		</TI>
+		<AUS>
+			<AU>DING WU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>407</NA>
+		<TI>
+			<MC>Green</MC>
+			<MC>food</MC>
+			<MC>identification</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN YU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>408</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>device</MC>
+			<MC>CDMA2000</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>system</MC>
+			<MC>CDMA2000</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG XIANWEN</AU>
+			<AU>IN JIAMIAO</AU>
+			<AU>HOU HUA</AU>
+			<AU>IN FUCUN</AU>
+			<AU>HOU PING</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>409</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>device</MC>
+			<MC>LTE</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>system</MC>
+			<MC>LTE</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG XIANWEN</AU>
+			<AU>IN JIAMIAO</AU>
+			<AU>HOU HUA</AU>
+			<AU>IN FUCUN</AU>
+			<AU>HOU PING</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>410</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>device</MC>
+			<MC>Bluetooth</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>system</MC>
+			<MC>Bluetooth</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG XIANWEN</AU>
+			<AU>IN JIAMIAO</AU>
+			<AU>HOU HUA</AU>
+			<AU>IN FUCUN</AU>
+			<AU>HOU PING</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>411</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>device</MC>
+			<MC>WIFI</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>system</MC>
+			<MC>WIFI</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG XIANWEN</AU>
+			<AU>IN JIAMIAO</AU>
+			<AU>HOU HUA</AU>
+			<AU>IN FUCUN</AU>
+			<AU>HOU PING</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>412</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>device</MC>
+			<MC>WCDMA</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>system</MC>
+			<MC>WCDMA</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG XIANWEN</AU>
+			<AU>IN JIAMIAO</AU>
+			<AU>HOU HUA</AU>
+			<AU>IN FUCUN</AU>
+			<AU>HOU PING</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>413</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>device</MC>
+			<MC>CDMA2000</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>system</MC>
+			<MC>CDMA2000</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG XIANWEN</AU>
+			<AU>IN JIAMIAO</AU>
+			<AU>HOU HUA</AU>
+			<AU>IN FUCUN</AU>
+			<AU>HOU PING</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>414</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>device</MC>
+			<MC>GSM/TD</MC>
+			<MC>SCDMA</MC>
+			<MC>technology</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+			<MC>system</MC>
+			<MC>GSM/TD</MC>
+			<MC>SCDMA</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZENG XIANWEN</AU>
+			<AU>IN JIAMIAO</AU>
+			<AU>HOU HUA</AU>
+			<AU>IN FUCUN</AU>
+			<AU>HOU PING</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>415</NA>
+		<TI>
+			<MC>High</MC>
+			<MC>frequency</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>technology</MC>
+			<MC>intelligent</MC>
+			<MC>file</MC>
+			<MC>cabinet</MC>
+		</TI>
+		<AUS>
+			<AU>WU GU</AU>
+			<AU>AO HONGLIANG</AU>
+			<AU>I YUANPENG</AU>
+			<AU>AO MINGYUAN</AU>
+			<AU>I YINGJIAN</AU>
+			<AU>I CONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>416</NA>
+		<TI>
+			<MC>garage</MC>
+			<MC>management</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>JIAO HONGAI</AU>
+			<AU>I CHANGCHUN</AU>
+			<AU>UO WEIYA</AU>
+			<AU>U TIAN</AU>
+			<AU>IU YUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>417</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>road</MC>
+			<MC>sensing</MC>
+			<MC>orientation</MC>
+			<MC>broadcasting</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>YANG TAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>418</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>detonating</MC>
+			<MC>tube</MC>
+			<MC>detonator</MC>
+		</TI>
+		<AUS>
+			<AU>LI CHANGJUN</AU>
+			<AU>HEN YANGMING</AU>
+			<AU>HANG QIAN</AU>
+			<AU>IANG HONGLIANG</AU>
+			<AU>HAO YUJING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>419</NA>
+		<TI>
+			<MC>Mobile</MC>
+			<MC>elevator</MC>
+			<MC>inspection</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technique</MC>
+		</TI>
+		<AUS>
+			<AU>GUO LIMIN</AU>
+			<AU>AO XUAN</AU>
+			<AU>ONG XIAO</AU>
+			<AU>ANG XIAOLEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>420</NA>
+		<TI>
+			<MC>Solar</MC>
+			<MC>ecological</MC>
+			<MC>greenhouse</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technique</MC>
+		</TI>
+		<AUS>
+			<AU>GUO LIMIN</AU>
+			<AU>AI XUDONG</AU>
+			<AU>IANG HUIQI</AU>
+			<AU>AO XUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>421</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>chip</MC>
+			<MC>process</MC>
+			<MC>testing</MC>
+			<MC>system</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>HU JIANGUO</AU>
+			<AU>UANG CHUNKAI</AU>
+			<AU>ING YANYU</AU>
+			<AU>U CHONG</AU>
+			<AU>ANG DEMING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>422</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>collision</MC>
+			<MC>identification</MC>
+			<MC>method</MC>
+			<MC>modular</MC>
+			<MC>arithmetic</MC>
+			<MC>label</MC>
+			<MC>classification</MC>
+		</TI>
+		<AUS>
+			<AU>WU JIAN</AU>
+			<AU>IN ZHONGYUAN</AU>
+			<AU>HENG YONGXIN</AU>
+			<AU>IANG BIAO</AU>
+			<AU>IN KEJUN</AU>
+			<AU>OU TAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>423</NA>
+		<TI>
+			<MC>Receiving</MC>
+			<MC>end</MC>
+			<MC>circuit</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+			<MC>implementation</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>DUAN ZHIKUI</AU>
+			<AU>ANG DEMING</AU>
+			<AU>ING YI</AU>
+			<AU>U JIN</AU>
+			<AU>U CHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>424</NA>
+		<TI>
+			<MC>Multi</MC>
+			<MC>working</MC>
+			<MC>condition</MC>
+			<MC>detection</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>labels</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+		</TI>
+		<AUS>
+			<AU>YIN ZHOUPING</AU>
+			<AU>ANG YUHUI</AU>
+			<AU>EI HUAWEI</AU>
+			<AU>IU YUFENG</AU>
+			<AU>IE YUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>425</NA>
+		<TI>
+			<MC>Metal</MC>
+			<MC>resistant</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>metal</MC>
+			<MC>resistant</MC>
+			<MC>unit</MC>
+			<MC>layer</MC>
+			<MC>manufacture</MC>
+			<MC>method</MC>
+		</TI>
+		<AUS>
+			<AU>LI WENZHONG</AU>
+			<AU>I ZHONGMING</AU>
+			<AU>IN JIALIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>426</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>method</MC>
+			<MC>measuring</MC>
+			<MC>rotation</MC>
+			<MC>speed</MC>
+		</TI>
+		<AUS>
+			<AU>LAI XIAOZHENG</AU>
+			<AU>IE ZEMING</AU>
+			<AU>IU YUNLIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>427</NA>
+		<TI>
+			<MC>Anti</MC>
+			<MC>fake</MC>
+			<MC>method</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>WANG TAO</AU>
+			<AU>HONG YANHUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>428</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>detecting</MC>
+			<MC>mobile</MC>
+			<MC>communication</MC>
+			<MC>system</MC>
+			<MC>antenna</MC>
+			<MC>standing</MC>
+			<MC>wave</MC>
+			<MC>ratio</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU JINSONG</AU>
+			<AU>ENG MING</AU>
+			<AU>V JINGJING</AU>
+			<AU>ANG YONGGANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>429</NA>
+		<TI>
+			<MC>In</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>active</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>ZHONG SHIXIONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>430</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>scanning</MC>
+			<MC>recognition</MC>
+			<MC>method</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>WANG PENG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>431</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>publishing</MC>
+			<MC>advertisements</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>LI CE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>432</NA>
+		<TI>
+			<MC>Automatic</MC>
+			<MC>control</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>DAI WENHUI</AU>
+			<AU>ANG CUIPING</AU>
+			<AU>OU LEI</AU>
+			<AU>IANG QI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>433</NA>
+		<TI>
+			<MC>Manufacturing</MC>
+			<MC>technology</MC>
+			<MC>chipless</MC>
+			<MC>RFID</MC>
+			<MC>radio</MC>
+			<MC>frequency</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG WEI</AU>
+			<AU>ENG YAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>434</NA>
+		<TI>
+			<MC>System</MC>
+			<MC>method</MC>
+			<MC>providing</MC>
+			<MC>secure</MC>
+			<MC>identification</MC>
+			<MC>solutions</MC>
+			<MC>utilizing</MC>
+			<MC>radio</MC>
+			<MC>frequency</MC>
+			<MC>device</MC>
+			<MC>metallized</MC>
+			<MC>region</MC>
+			<MC>connected</MC>
+			<MC>metallized</MC>
+			<MC>region</MC>
+		</TI>
+		<AUS>
+			<AU>MARTINEZ DE VELASCO CORTINA FRANCISCO 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>435</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>receiving</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>LI WEN ZHANG 
+		</AU>
+			<AU>PENG ZHAO MIN 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>436</NA>
+		<TI>
+			<MC>Envelope</MC>
+			<MC>bag</MC>
+			<MC>structure</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>LI YONG CHANG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>437</NA>
+		<TI>
+			<MC>Magnetic</MC>
+			<MC>induction</MC>
+			<MC>wireless</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+			<MC>tag</MC>
+			<MC>cardRFID</MC>
+		</TI>
+		<AUS>
+			<AU>GUO JINN KWEI 
+		</AU>
+			<AU>TSAI CHURNG JOU 
+		</AU>
+			<AU>LIU CHUNG FAN 
+		</AU>
+			<AU>CHENG LING ERL 
+		</AU>
+			<AU>CHEN KUO TAI 
+		</AU>
+			<AU>LU CHUN LIN 
+		</AU>
+			<AU>TSENG CHAO HSIUNG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+			<PA>TW</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>438</NA>
+		<TI>
+			<MC>ANTENNA</MC>
+			<MC>INTERFACE</MC>
+			<MC>RFID</MC>
+			<MC>CIRCUIT</MC>
+		</TI>
+		<AUS>
+			<AU>GAY MICHAEL J 
+		</AU>
+			<AU>DOREL FRANCOIS LOUIS 
+		</AU>
+			<AU>DECLERCQ FREDERIC 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>CH</PA>
+			<PA>FR</PA>
+			<PA>CH</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>439</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>processing</MC>
+			<MC>apparatus</MC>
+			<MC>protecting</MC>
+			<MC>shirt</MC>
+			<MC>theft</MC>
+			<MC>managing</MC>
+			<MC>shirt</MC>
+			<MC>e.g.</MC>
+			<MC>store</MC>
+			<MC>knife</MC>
+			<MC>cutting</MC>
+			<MC>pocket</MC>
+			<MC>label</MC>
+			<MC>deactivation</MC>
+			<MC>reading</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>PRAT LIONEL 
+		</AU>
+			<AU>BOUTONNET TRANIER JEAN MARC 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FR</PA>
+			<PA>FR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>440</NA>
+		<TI>
+			<MC>System</MC>
+			<MC>method</MC>
+			<MC>reading</MC>
+			<MC>massive</MC>
+			<MC>tags</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>JIANG WENCHAO</AU>
+			<AU>HU YANMIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>441</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>field</MC>
+			<MC>antenna</MC>
+			<MC>integrated</MC>
+			<MC>plane</MC>
+			<MC>impedance</MC>
+			<MC>matching</MC>
+			<MC>balun</MC>
+		</TI>
+		<AUS>
+			<AU>WU YONGLE</AU>
+			<AU>IAO MENGBI</AU>
+			<AU>IU YUANAN</AU>
+			<AU>I SHULAN</AU>
+			<AU>U CUIPING</AU>
+			<AU>U MING</AU>
+			<AU>IU QIANG</AU>
+			<AU>HANG WEIWEI</AU>
+			<AU>I JIUCHAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>442</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>burglar</MC>
+			<MC>fire</MC>
+			<MC>alarm</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>WANG JUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>443</NA>
+		<TI>
+			<MC>Biological</MC>
+			<MC>information</MC>
+			<MC>acquisition</MC>
+			<MC>recognition</MC>
+			<MC>system</MC>
+			<MC>combining</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>GE HUI</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>444</NA>
+		<TI>
+			<MC>Middle</MC>
+			<MC>large</MC>
+			<MC>size</MC>
+			<MC>electronic</MC>
+			<MC>equipment</MC>
+			<MC>input/output</MC>
+			<MC>I/O</MC>
+			<MC>controller</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>CHAI YA NAN</AU>
+			<AU>U LEILEI</AU>
+			<AU>UANG YU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>445</NA>
+		<TI>
+			<MC>Automatic</MC>
+			<MC>VIP</MC>
+			<MC>Very</MC>
+			<MC>Important</MC>
+			<MC>Person</MC>
+			<MC>remote</MC>
+			<MC>identity</MC>
+			<MC>recognition</MC>
+			<MC>system</MC>
+			<MC>applying</MC>
+			<MC>RFID</MC>
+			<MC>Devices</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>JIN JUN</AU>
+			<AU>U MINGHAO</AU>
+			<AU>A RENZHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>446</NA>
+		<TI>
+			<MC>File</MC>
+			<MC>cabinet</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>document</MC>
+			<MC>management</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>GAO MING</AU>
+			<AU>IU CHENGYONG</AU>
+			<AU>I XIANKE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>447</NA>
+		<TI>
+			<MC>Low</MC>
+			<MC>power</MC>
+			<MC>consumption</MC>
+			<MC>active</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>XU YONGLIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>448</NA>
+		<TI>
+			<MC>Low</MC>
+			<MC>power</MC>
+			<MC>consumption</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>electronic</MC>
+			<MC>lock</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>lock</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>YU BO</AU>
+			<AU>ANG HUI</AU>
+			<AU>IU RUITAO</AU>
+			<AU>AI WENLIANG</AU>
+			<AU>HANG XUAN</AU>
+			<AU>HANG TIANWEI</AU>
+			<AU>I FEIGANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>449</NA>
+		<TI>
+			<MC>Multi</MC>
+			<MC>antenna</MC>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>electronic</MC>
+			<MC>lock</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>lock</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>YU BO</AU>
+			<AU>ANG HUI</AU>
+			<AU>IU RUITAO</AU>
+			<AU>AI WENLIANG</AU>
+			<AU>HANG XUAN</AU>
+			<AU>HANG TIANWEI</AU>
+			<AU>I FEIGANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>450</NA>
+		<TI>
+			<MC>Hand</MC>
+			<MC>pushing</MC>
+			<MC>forklift</MC>
+			<MC>RFID</MC>
+			<MC>function</MC>
+		</TI>
+		<AUS>
+			<AU>YU YANYAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>451</NA>
+		<TI>
+			<MC>Envelope</MC>
+			<MC>bag</MC>
+			<MC>structure</MC>
+			<MC>RFID</MC>
+			<MC>system</MC>
+			<MC>volume</MC>
+		</TI>
+		<AUS>
+			<AU>LI YONGCHANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>452</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>LIU RUIXING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>453</NA>
+		<TI>
+			<MC>Method</MC>
+			<MC>integration</MC>
+			<MC>data</MC>
+			<MC>fusion</MC>
+			<MC>RFID</MC>
+			<MC>equipment</MC>
+			<MC>sensing</MC>
+			<MC>equipment</MC>
+		</TI>
+		<AUS>
+			<AU>LIU FAGUI</AU>
+			<AU>ING GENGJIA</AU>
+			<AU>UO SONGCHAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>454</NA>
+		<TI>
+			<MC>Online</MC>
+			<MC>detection</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>Device</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN JIANKUI</AU>
+			<AU>IN ZHOUPING</AU>
+			<AU>HOU CHUNLEI</AU>
+			<AU>U YU</AU>
+			<AU>I HONGJU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>455</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>antenna</MC>
+			<MC>capacitor</MC>
+			<MC>resonance</MC>
+			<MC>circuit</MC>
+			<MC>standard</MC>
+			<MC>packaging</MC>
+			<MC>capacitor</MC>
+		</TI>
+		<AUS>
+			<AU>REN JIA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>456</NA>
+		<TI>
+			<MC>System</MC>
+			<MC>method</MC>
+			<MC>RFID</MC>
+			<MC>Devices</MC>
+			<MC>wireless</MC>
+			<MC>connection</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG KAIGEN</AU>
+			<AU>HANG MINGYU</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>457</NA>
+		<TI>
+			<MC>Phase</MC>
+			<MC>locked</MC>
+			<MC>loop</MC>
+			<MC>RFID</MC>
+			<MC>read</MC>
+			<MC>write</MC>
+			<MC>device</MC>
+		</TI>
+		<AUS>
+			<AU>SUN XIAOXIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>458</NA>
+		<TI>
+			<MC>TOTAL</MC>
+			<MC>HISTORY</MC>
+			<MC>MANAGEMENT</MC>
+			<MC>SYSTEM</MC>
+			<MC>METHOD</MC>
+			<MC>RFID</MC>
+			<MC>TAG</MC>
+			<MC>BARCODE</MC>
+		</TI>
+		<AUS>
+			<AU>SHIN DONG BEOM 
+		</AU>
+			<AU>LEE HEYUNG SUB 
+		</AU>
+			<AU>MO SANG HYUN 
+		</AU>
+			<AU>LEE KANG BOK 
+		</AU>
+			<AU>LEE JAE HEUM 
+		</AU>
+			<AU>PYO CHEOL SIG 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+			<PA>KR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>459</NA>
+		<TI>
+			<MC>METHOD</MC>
+			<MC>MANUFACTURING</MC>
+			<MC>RFID</MC>
+			<MC>DEVICE</MC>
+		</TI>
+		<AUS>
+			<AU>FORSTER IAN J 
+		</AU>
+			<AU>OELSNER CHRISTIAN K 
+		</AU>
+			<AU>REVELS ROBERT 
+		</AU>
+			<AU>KINGSTON BENJAMIN 
+		</AU>
+			<AU>COCKERELL PETER 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>460</NA>
+		<TI>
+			<MC>High</MC>
+			<MC>frequency</MC>
+			<MC>fragile</MC>
+			<MC>counterfeiting</MC>
+			<MC>transfer</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>manufacturing</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>LI WENZHONG</AU>
+			<AU>I ZHONGMING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>461</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>method</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>WANG JIEMIN</AU>
+			<AU>OU YING</AU>
+			<AU>ANG ZHENGYOU</AU>
+			<AU>U ZHEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>462</NA>
+		<TI>
+			<MC>Fingerprint</MC>
+			<MC>collecting</MC>
+			<MC>recognition</MC>
+			<MC>system</MC>
+			<MC>combined</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>GE HUI</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>463</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>stereo</MC>
+			<MC>garage</MC>
+			<MC>control</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>CUI YUQIAN</AU>
+			<AU>HANG SHUFENG</AU>
+			<AU>I QIUCHENG</AU>
+			<AU>ANG HUIBIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>464</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>information</MC>
+			<MC>card</MC>
+		</TI>
+		<AUS>
+			<AU>YE CANCAI</AU>
+			<AU>U LINFA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>465</NA>
+		<TI>
+			<MC>Tray</MC>
+			<MC>RFID</MC>
+			<MC>function</MC>
+			<MC>capable</MC>
+			<MC>quickly</MC>
+			<MC>strapped</MC>
+		</TI>
+		<AUS>
+			<AU>ZHENG YUAN</AU>
+			<AU>HANG CAIYIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>466</NA>
+		<TI>
+			<MC>Electronic</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>monitoring</MC>
+			<MC>termite</MC>
+			<MC>damages</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>LIU WENJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>467</NA>
+		<TI>
+			<MC>Pet</MC>
+			<MC>collar</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+			<MC>global</MC>
+			<MC>positioning</MC>
+			<MC>system</MC>
+			<MC>GPS</MC>
+		</TI>
+		<AUS>
+			<AU>ZHUANG HONGWEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>468</NA>
+		<TI>
+			<MC>Wrapping</MC>
+			<MC>bag</MC>
+			<MC>dismantling</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU CHEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>469</NA>
+		<TI>
+			<MC>Wrapping</MC>
+			<MC>bag</MC>
+			<MC>dismantling</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>ZHU CHEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>470</NA>
+		<TI>
+			<MC>Composite</MC>
+			<MC>device</MC>
+			<MC>bonding</MC>
+			<MC>cloth</MC>
+			<MC>band</MC>
+			<MC>RFID</MC>
+			<MC>Device</MC>
+			<MC>chip</MC>
+		</TI>
+		<AUS>
+			<AU>ZHAI SUOQIANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>471</NA>
+		<TI>
+			<MC>Radio</MC>
+			<MC>frequency</MC>
+			<MC>commodity</MC>
+			<MC>information</MC>
+			<MC>identification</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>LIANG HAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>472</NA>
+		<TI>
+			<MC>Electrical</MC>
+			<MC>equipment</MC>
+			<MC>inspection</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>data</MC>
+			<MC>terminal</MC>
+		</TI>
+		<AUS>
+			<AU>ZHUANG HONGWEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>473</NA>
+		<TI>
+			<MC>Vehicle</MC>
+			<MC>mounted</MC>
+			<MC>ultrahigh</MC>
+			<MC>frequency</MC>
+			<MC>RFID</MC>
+			<MC>integrated</MC>
+			<MC>controller</MC>
+		</TI>
+		<AUS>
+			<AU>WANG RUCHUAN</AU>
+			<AU>ANG ZHONGQIN</AU>
+			<AU>HOU HUA</AU>
+			<AU>HA CHAO</AU>
+			<AU>E NING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>474</NA>
+		<TI>
+			<MC>Positioning</MC>
+			<MC>label</MC>
+			<MC>RFID</MC>
+			<MC>positioning</MC>
+			<MC>system</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>HU CHUAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>475</NA>
+		<TI>
+			<MC>Portable</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>detection</MC>
+			<MC>system</MC>
+		</TI>
+		<AUS>
+			<AU>CUI ZHE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>476</NA>
+		<TI>
+			<MC>Sealing</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>function</MC>
+			<MC>preparation</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>HE FEI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>477</NA>
+		<TI>
+			<MC>Passive</MC>
+			<MC>RFID</MC>
+			<MC>devices</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>resonant</MC>
+			<MC>frequency</MC>
+			<MC>detection</MC>
+			<MC>system</MC>
+			<MC>Chirp</MC>
+			<MC>signal</MC>
+			<MC>passive</MC>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>resonant</MC>
+			<MC>frequency</MC>
+			<MC>detection</MC>
+			<MC>method</MC>
+			<MC>Chirp</MC>
+			<MC>signal</MC>
+		</TI>
+		<AUS>
+			<AU>LIANG BIAO</AU>
+			<AU>IANG YU</AU>
+			<AU>OU TAO</AU>
+			<AU>U JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>478</NA>
+		<TI>
+			<MC>Radio</MC>
+			<MC>frequency</MC>
+			<MC>tag</MC>
+			<MC>identification</MC>
+			<MC>method</MC>
+			<MC>Walsh</MC>
+			<MC>codes</MC>
+		</TI>
+		<AUS>
+			<AU>LIU HAOXIANG</AU>
+			<AU>IU KEBIN</AU>
+			<AU>ANG LEI</AU>
+			<AU>IU YUNHAO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>479</NA>
+		<TI>
+			<MC>Device</MC>
+			<MC>method</MC>
+			<MC>locating</MC>
+			<MC>identification</MC>
+			<MC>active</MC>
+			<MC>remote</MC>
+			<MC>radio</MC>
+			<MC>frequency</MC>
+			<MC>tag</MC>
+		</TI>
+		<AUS>
+			<AU>YIN XIAOHU</AU>
+			<AU>ANG XIN</AU>
+			<AU>HANG KUN</AU>
+			<AU>UN YANG</AU>
+			<AU>IU FUJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>480</NA>
+		<TI>
+			<MC>Molten</MC>
+			<MC>steel</MC>
+			<MC>tank</MC>
+			<MC>tracking</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>XIANG YA NAN</AU>
+			<AU>IU ZHE</AU>
+			<AU>EN YANSHEN</AU>
+			<AU>AN HONG</AU>
+			<AU>UN YUCHANG</AU>
+			<AU>AI JIAOYANG</AU>
+			<AU>HANG HUI</AU>
+			<AU>AN SHAOJIE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>481</NA>
+		<TI>
+			<MC>Wireless</MC>
+			<MC>RFID</MC>
+			<MC>era</MC>
+			<MC>tag</MC>
+			<MC>manufacturing</MC>
+			<MC>method</MC>
+			<MC>thereof</MC>
+		</TI>
+		<AUS>
+			<AU>HUANG SHENGCHANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>482</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>barreled</MC>
+			<MC>water</MC>
+			<MC>bottle</MC>
+		</TI>
+		<AUS>
+			<AU>LI JIANPING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>483</NA>
+		<TI>
+			<MC>Radio</MC>
+			<MC>frequency</MC>
+			<MC>card</MC>
+			<MC>safety</MC>
+			<MC>coprocessor</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+		</TI>
+		<AUS>
+			<AU>GUO BAOAN</AU>
+			<AU>UO SHIXIN</AU>
+			<AU>ANG ZHUO</AU>
+			<AU>IN GANG</AU>
+			<AU>E LI</AU>
+			<AU>IAN XIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>484</NA>
+		<TI>
+			<MC>Radio</MC>
+			<MC>frequency</MC>
+			<MC>read</MC>
+			<MC>write</MC>
+			<MC>module</MC>
+			<MC>SM7</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>writer</MC>
+		</TI>
+		<AUS>
+			<AU>GUO BAOAN</AU>
+			<AU>UO SHIXIN</AU>
+			<AU>IAN XIN</AU>
+			<AU>ANG ZHUO</AU>
+			<AU>IN GANG</AU>
+			<AU>E LI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>485</NA>
+		<TI>
+			<MC>Intelligent</MC>
+			<MC>Patching</MC>
+			<MC>Systems</MC>
+			<MC>Methods</MC>
+			<MC>Using</MC>
+			<MC>RFID</MC>
+			<MC>Tags</MC>
+			<MC>Interrogated</MC>
+			<MC>Over</MC>
+			<MC>Network</MC>
+			<MC>Cabling</MC>
+			<MC>Related</MC>
+			<MC>Communications</MC>
+			<MC>Connectors</MC>
+		</TI>
+		<AUS>
+			<AU>KUMMETZ THOMAS 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>US</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>486</NA>
+		<TI>
+			<MC>UHF</MC>
+			<MC>ELECTRONIC</MC>
+			<MC>RFID</MC>
+			<MC>METALLIC</MC>
+			<MC>ENVIRONMENT</MC>
+			<MC>MIDDLE</MC>
+			<MC>LAYER</MC>
+			<MC>IMPEDANCE</MC>
+			<MC>MATCHING</MC>
+			<MC>MEANDERS</MC>
+		</TI>
+		<AUS>
+			<AU>PANNIER PHILIPPE 
+		</AU>
+			<AU>JUVENAL ARLACON 
+		</AU>
+			<AU>EGELS MATHIEU 
+		</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS>
+			<PA>FR</PA>
+			<PA>FR</PA>
+			<PA>FR</PA>
+		</PAS>
+	</BREVET>
+	<BREVET>
+		<NA>487</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>counterfeiting</MC>
+			<MC>electronic</MC>
+			<MC>label</MC>
+		</TI>
+		<AUS>
+			<AU>LIU XIAOFENG</AU>
+			<AU>HANG HONGQUAN</AU>
+			<AU>UAN MENG</AU>
+			<AU>ANG ZHENGGUO</AU>
+			<AU>ANG WEN</AU>
+			<AU>HANG FENGCHUN</AU>
+			<AU>I YI</AU>
+			<AU>HANG CHAOGANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>488</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>electronic</MC>
+			<MC>tag</MC>
+			<MC>counterfeit</MC>
+			<MC>package</MC>
+			<MC>bottle</MC>
+		</TI>
+		<AUS>
+			<AU>LIU XIAOFENG</AU>
+			<AU>ANG SHIEN</AU>
+			<AU>HAO DECAI</AU>
+			<AU>HANG HONGQUAN</AU>
+			<AU>ANG ZHENGGUO</AU>
+			<AU>ANG WEN</AU>
+			<AU>HANG FENGCHUN</AU>
+			<AU>HANG CHAOGANG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>489</NA>
+		<TI>
+			<MC>Package</MC>
+			<MC>bottle</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>protective</MC>
+			<MC>film</MC>
+			<MC>arranged</MC>
+			<MC>internally</MC>
+		</TI>
+		<AUS>
+			<AU>LIU XIAOFENG</AU>
+			<AU>HANG FENGCHUN</AU>
+			<AU>ANG ZHENGGUO</AU>
+			<AU>HANG HONGQUAN</AU>
+			<AU>ANG WEN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>490</NA>
+		<TI>
+			<MC>Mobile</MC>
+			<MC>intelligent</MC>
+			<MC>RFID</MC>
+			<MC>wireless</MC>
+			<MC>data</MC>
+			<MC>acquisition</MC>
+			<MC>terminal</MC>
+			<MC>basis</MC>
+			<MC>WIFI</MC>
+			<MC>wireless</MC>
+			<MC>fidelity</MC>
+		</TI>
+		<AUS>
+			<AU>ZHANG XIAOJING</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>491</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>reader</MC>
+			<MC>mobile</MC>
+			<MC>phone</MC>
+		</TI>
+		<AUS>
+			<AU>JI WENHONG</AU>
+			<AU>U LIANGCAI</AU>
+			<AU>AO KUN</AU>
+			<AU>ANG MINHUI</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>492</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>device</MC>
+			<MC>RFID</MC>
+			<MC>label</MC>
+			<MC>batch</MC>
+			<MC>read</MC>
+			<MC>write</MC>
+			<MC>system</MC>
+			<MC>device</MC>
+			<MC>archives</MC>
+			<MC>dossiers</MC>
+		</TI>
+		<AUS>
+			<AU>LIU RONGCHANG</AU>
+			<AU>IU YONG</AU>
+			<AU>IU YIBO</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>493</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>big</MC>
+			<MC>board</MC>
+			<MC>tester</MC>
+		</TI>
+		<AUS>
+			<AU>LAN RONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>494</NA>
+		<TI>
+			<MC>Mini</MC>
+			<MC>intelligent</MC>
+			<MC>agriculture</MC>
+			<MC>monitoring</MC>
+			<MC>system</MC>
+			<MC>mixed</MC>
+			<MC>signal</MC>
+			<MC>processor</MC>
+			<MC>MSP</MC>
+			<MC>430</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>WANG HAIYAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>495</NA>
+		<TI>
+			<MC>Multifunctional</MC>
+			<MC>checkout</MC>
+			<MC>service</MC>
+			<MC>terminal</MC>
+			<MC>utilizing</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZHAO ZHONGHUA</AU>
+			<AU>ANG WEIMIN</AU>
+			<AU>U ZHONGHUA</AU>
+			<AU>HU ZHAOFENG</AU>
+			<AU>HAO ZHENGUO</AU>
+			<AU>ING KE</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>496</NA>
+		<TI>
+			<MC>Wireless</MC>
+			<MC>RFID</MC>
+			<MC>module</MC>
+		</TI>
+		<AUS>
+			<AU>LIN XINLONG</AU>
+			<AU>IN MINGZHONG</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>497</NA>
+		<TI>
+			<MC>Handheld</MC>
+			<MC>parent</MC>
+			<MC>recognizer</MC>
+			<MC>kindergarten</MC>
+			<MC>RFID</MC>
+			<MC>technology</MC>
+		</TI>
+		<AUS>
+			<AU>ZHAO JIAN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>498</NA>
+		<TI>
+			<MC>Warehouse</MC>
+			<MC>management</MC>
+			<MC>system</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>CHEN LIJIAN</AU>
+			<AU>HE XIAOLI</AU>
+			<AU>IN XIN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>499</NA>
+		<TI>
+			<MC>RFID</MC>
+			<MC>drug</MC>
+			<MC>shelf</MC>
+		</TI>
+		<AUS>
+			<AU>LI YI</AU>
+			<AU>UO JUNFENG</AU>
+			<AU>U JIANJUN</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+	<BREVET>
+		<NA>500</NA>
+		<TI>
+			<MC>Drug</MC>
+			<MC>conveying</MC>
+			<MC>monitoring</MC>
+			<MC>device</MC>
+			<MC>adopting</MC>
+			<MC>RFID</MC>
+		</TI>
+		<AUS>
+			<AU>TAN YONG</AU>
+			<AU>ANG QI</AU>
+			<AU>AO DA</AU>
+		</AUS>
+		<DP>2013</DP>
+		<PAS/>
+	</BREVET>
+</BREVETS>

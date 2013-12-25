@@ -1,0 +1,220 @@
+<ARTICLES>
+<ARTICLE>
+	<TI>
+		<MC>AeroScout</MC>
+		<MC>piste</MC>
+		<MC>RFID</MC>
+	</TI>
+	<AU>Francisco Villacampa</AU>
+	<DP>2005</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>Symbol</MC>
+		<MC>lit</MC>
+		<MC>avenir</MC>
+		<MC>mobilite</MC>
+		<MC>RFID</MC>
+	</TI>
+	<AU>Boris Mathieux</AU>
+	<DP>2005</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>puces</MC>
+		<MC>RFID</MC>
+		<MC>greffent</MC>
+		<MC>echantillons</MC>
+		<MC>biologiques</MC>
+	</TI>
+	<AU>Boris Mathieux</AU>
+	<DP>2005</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>etiquettes</MC>
+		<MC>RFID</MC>
+		<MC>vecteurs</MC>
+		<MC>virus</MC>
+	</TI>
+	<AU>La redaction</AU> 
+	<DP>2006</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>puces</MC>
+		<MC>RFID</MC>
+		<MC>epreuve</MC>
+		<MC>terrain</MC>
+	</TI>
+	<AU>Boris Mathieux</AU>
+	<DP>2006</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>Contrôle</MC>
+		<MC>parc</MC>
+		<MC>automobile</MC>
+		<MC>RFID</MC>
+		<MC>Bermudes</MC>
+	</TI>
+	<AU>Arnaud Devillard</AU> 
+	<DP>2007</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>risque</MC>
+		<MC>sanitaire</MC>
+		<MC>puces</MC>
+		<MC>etiquettes</MC>
+		<MC>RFID</MC>
+		<MC>juge</MC>
+		<MC>faible</MC>
+		
+	</TI>
+	<AU>Guillaume Deleurence </AU>	
+	<DP>2009</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>puces</MC>
+		<MC>RFID</MC>
+		<MC>cr�ches </MC>
+		<MC>fantasme</MC>
+	</TI>
+	<AU>La redaction</AU>
+	<DP>2010</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>puce</MC>
+		<MC>RFID</MC>
+		<MC>ecoliers</MC>
+		<MC>californiens</MC>
+	</TI>
+	<AU>Frederique Crepin</AU>	
+	<DP>2010</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>Puces</MC>
+		<MC>RFID</MC>
+		<MC>Bruxelles</MC>
+		<MC>proteger</MC>
+		<MC>consommateurs</MC>
+	</TI>
+	<AU>La redaction</AU>
+	<DP>2011</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>GPS</MC>
+		<MC>GSM</MC>
+		<MC>RFID</MC>
+		<MC>filature</MC>
+		<MC>electronique</MC>
+		<MC>lancee</MC>
+	</TI>
+	<AU>Xavier Biseul</AU>	
+	<DP>2003</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>artiste</MC>
+		<MC>americain</MC>
+		<MC>implanter</MC>
+		<MC>puce</MC>
+		<MC>RFID</MC>
+		<MC>main</MC>
+	</TI>
+	<AU>Cecile Bolesse</AU>
+	<DP>2013</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>RFID</MC>
+		<MC>libre</MC>
+		<MC>service</MC>
+	</TI>
+	<AU>Renaud Edouard</AU>	 
+	<DP>2003</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>tra�abilite</MC>
+		<MC>RFID</MC>
+		<MC>surveillance</MC>
+	</TI>
+	<AU>Arnaud Devillard</AU> 
+	<DP>2004</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>puces</MC>
+		<MC>RFID</MC>
+		<MC>s'implantent</MC>
+		<MC>patients</MC>
+		<MC>americains</MC>
+	</TI>
+	<AU>Hel�ne Puel</AU>
+	<DP>2004</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>telephones</MC>
+		<MC>Nokia</MC>
+		<MC>prêts</MC>
+	</TI>
+	<AU>Stephanie Chaptal</AU>	
+	<DP>2004</DP>
+</ARTICLE>
+	
+<ARTICLE>
+	<TI>
+		<MC>Feu</MC>
+		<MC>vert</MC>
+		<MC>puces</MC>
+		<MC>RFID</MC>
+		<MC>deuxi�me</MC>
+		<MC>generation</MC>
+	</TI>
+	<AU>Nicolas Kuhn</AU>
+	<DP>2005</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>RFID</MC>
+		<MC>l'astuce</MC>
+		<MC>Marks</MC>
+		<MC>Spencer</MC>
+		<MC>vendre</MC>
+		
+	</TI>
+	<AU>Boris Mathieux</AU>
+	<DP>2005</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>RFID</MC>
+		<MC>prend</MC>
+		<MC>train</MC>
+		<MC>marchandises</MC>
+	</TI>
+	<AU>Francisco Villacampa</AU>
+	<DP>2005</DP>
+</ARTICLE>
+<ARTICLE>
+	<TI>
+		<MC>Selection</MC>
+		<MC>contestee</MC>
+		<MC>RFID</MC>
+		<MC>billets</MC>
+		<MC>Mondial</MC>
+		<MC>2006</MC>
+	</TI>
+	<AU>Thomas Schnee </AU>
+
+	<DP>2005</DP>
+</ARTICLE>
+</ARTICLES>
+

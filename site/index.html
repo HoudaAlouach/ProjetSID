@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<title>RFID</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+	
+	
+	
+			<!-- 1. Add these JavaScript inclusions in the head of your page -->
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+		<script type="text/javascript" src="js/highcharts.js"></script>
+		
+		<!-- 1a) Optional: add a theme file -->
+		<!--
+			<script type="text/javascript" src="../js/themes/gray.js"></script>
+		-->
+		
+		<!-- 1b) Optional: the exporting module -->
+		<script type="text/javascript" src="js/modules/exporting.js"></script>
+		
+		
+		<!-- 2. Add the JavaScript to initialize the chart on document ready -->
+	
+	
+	<link rel="stylesheet" type="text/css" href="TinySlider/style.css" />
+	<script type="text/javascript" src="TinySlider/script.js"></script>
+	
+
+	
+	
+</head>
+<body>
+<!-- Header -->
+<div id="header">
+	<div class="shell">
+		<!-- Logo + Top Nav -->
+		<div id="top">
+			<h1><a href="#">Système d'aide à la décision  : Technologie RFID 1 </a></h1>
+			<div id="top-navigation">
+				Welcome <a href="#"><strong>Administrator</strong></a>
+				<span>|</span>
+				<a href="#">Help</a>
+				<span>|</span>
+				<a href="#">Profile Settings</a>
+				<span>|</span>
+				<a href="#">Log out</a>
+			</div>
+		</div>
+		<!-- End Logo + Top Nav -->
+		<!-- Main Nav -->
+		<div id="navigation">
+			<ul>
+			    <li><a href="index.html" class="active"><span>Accueil</span></a></li>
+			    <li><a href="statistiques_.html"><span>Veille technologique :USPTO</span></a></li>
+				<li><a href="s_espaceNet.html"><span>Veille technologique :ESPACENET</span></a></li>
+			    <li><a href="s_pubmed.html"><span>Veille scientifique :PUBMED</span></a></li>
+			    <li><a href="s_01NET.html"><span>Veille media :01NET</span></a></li>
+		
+			</ul>
+		</div>
+		<!-- End Main Nav -->
+
+	</div>
+</div>
+<!-- End Header -->
+
+<!-- Container -->
+<div id="container">
+	<div class="shell">
+		
+
+
+
+		<br />
+		
+		
+		<center>
+				<!-- Box -->
+					<table>
+					<tr>
+					<td><h1>RFID (Radio Frequency IDentification)</h1>
+					</br>
+										<p>RFID est une  technologie  qui permet d’identifier un objet, d’en suivre le cheminement et d’en connaître les caractéristiques à distance grâce à une étiquette émettant des ondes radio, attachée ou incorporée à l’objet. La technologie RFID permet la lecture des étiquettes même sans ligne de vue directe et peut traverser de fines couches de matériaux (peinture, neige, etc.).
+
+L’étiquette radiofréquence (transpondeur, étiquette RFID), est composée d’une puce (en anglais « chip ») reliée à une antenne, encapsulées dans un support (RFID Tag ou RFID Label). Elle est lue par un lecteur qui capte et transmet l’information.</p>
+					</td>
+					<td width="2%">
+					</td>
+					<td>
+				<div class="box_gallerie" align ="left" style="width:600px;">
+					<!-- Box Head -->
+					<div class="box-head_gallerie">
+						<h2>Applications de RFID </h2>
+					</div>
+					<!-- End Box Head -->
+					
+					<!-- Debut gallerie -->
+					<center>
+					<br/>
+				
+					
+					<div style = "width:570px; height:350px;">
+					<div id="wrapper">
+						<div>
+							<div class="sliderbutton"><img src="TinySlider/images/left.gif" width="32" height="38" alt="Previous" onclick="slideshow.move(-1)" /></div>
+							<div id="slider">
+								<ul>
+									
+									<li><img src="TinySlider/photos/RFID.jpg" width="500" height="300" alt="Sea turtle" /></li>
+									<li><img src="TinySlider/photos/visa-rfid-cc.jpg" width="500" height="300" alt="Coral Reef" /></li>
+									<li><img src="TinySlider/photos/key.jpg" width="500" height="300" alt="Blue Fish" /></li>
+									<li><img src="TinySlider/photos/fever.png" width="500" height="300" alt="Sea turtle" /></li>
+					
+								</ul>
+							</div>
+							<div class="sliderbutton"><img src="TinySlider/images/right.gif" width="32" height="38" alt="Next" onclick="slideshow.move(1)" /></div>
+						</div>
+						<ul id="pagination" class="pagination">
+							<li onclick="slideshow.pos(0)">1</li>
+							<li onclick="slideshow.pos(1)">2</li>
+							<li onclick="slideshow.pos(2)">3</li>
+							<li onclick="slideshow.pos(3)">4</li>
+						</ul>
+					</div>
+						<script type="text/javascript">
+						var slideshow=new TINY.slider.slide('slideshow',{
+							id:'slider',
+							auto:3,
+							resume:true,
+							vertical:false,
+							navid:'pagination',
+							activeclass:'current',
+							position:0
+						});
+						</script>
+					</div>
+					</td>
+					</tr>
+					</table>
+					</center>
+					<!-- Fin gallerie -->
+				</div>
+				
+				<!-- End Box -->
+				
+				
+				
+				
+		
+		</center>
+	
+	
+			<!-- Main -->
+		<div id="main">
+			<div class="cl">&nbsp;</div>
+			
+			<!-- Content -->
+			<div id="content">
+
+			</div>
+			<!-- End Content -->
+			
+
+			
+			<div class="cl">&nbsp;</div>			
+		</div>
+		<!-- Main -->
+		
+	</div>
+	
+</div>
+<!-- End Container -->
+
+
+<!-- Footer -->
+<div id="footer">
+	<div class="shell">
+		<center> &copy; 2013 - Groupe RFID1</center>
+		
+	</div>
+</div>
+<!-- End Footer -->
+	
+</body>
+</html>

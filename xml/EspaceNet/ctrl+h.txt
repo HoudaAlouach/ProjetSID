@@ -1,0 +1,66 @@
+
+1)
+		<CH1>
+			<MC>
+INSERT INTO `items` (`nom_long`, `numero`,`idInnovChamp`) VALUES ('
+
+</MC>
+			<NA>		
+','
+
+</NA>
+		</CH1>
+','19');
+
+2)
+		<CH2>
+			<AU>
+INSERT INTO `bdd_veille`.`items` (`nom_long`, `numero`,`idInnovChamp`) VALUES ('
+
+ 
+		</AU>
+			<NA>
+','
+
+</NA>
+		</CH2>
+','20');
+
+3)
+		<CH3>
+			<DP>
+INSERT INTO `bdd_veille`.`items` (`nom_long`, `numero`,`idInnovChamp`) VALUES ('
+
+</DP>
+			<NA>
+','
+
+</NA>
+		</CH3>
+','21');
+
+		<CH4>
+			<PA>
+INSERT INTO `bdd_veille`.`items` (`nom_long`, `numero`,`idInnovChamp`) VALUES ('
+
+</PA>
+			<NA>
+','
+
+</NA>
+		</CH4>
+,'22');
+
+
+
+</AU>
+			<NA>
+','
+
+
+
+'O'
+'
+
+''
+'

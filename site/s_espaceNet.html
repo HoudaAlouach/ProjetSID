@@ -1,0 +1,318 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<title>RFID</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+	
+	
+	
+			<!-- 1. Add these JavaScript inclusions in the head of your page -->
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+		<script type="text/javascript" src="js/highcharts.js"></script>
+		
+		<!-- 1a) Optional: add a theme file -->
+		<!--
+			<script type="text/javascript" src="../js/themes/gray.js"></script>
+		-->
+		
+		<!-- 1b) Optional: the exporting module -->
+		<script type="text/javascript" src="js/modules/exporting.js"></script>
+		
+		
+		<!-- 2. Add the JavaScript to initialize the chart on document ready -->
+		<script type="text/javascript">
+		
+			var chart;
+			$(document).ready(function() {
+				chart = new Highcharts.Chart({
+					chart: {
+						renderTo: 'container_graphe1',
+						plotBackgroundColor: null,
+						plotBorderWidth: null,
+						plotShadow: false
+					},
+					title: {
+						text: 'les 10 top mots clées des brevets EspaceNet'
+					},
+					tooltip: {
+						formatter: function() {
+							return '<b>'+ this.point.name +'</b>: '+ this.percentage +' %';
+						}
+					},
+					
+				    series: [{
+						type: 'pie',
+						name: 'Browser share',
+						data: [
+							['RFID' ,599],
+							['SYSTEM' ,192],
+							['device' ,150],
+							['method', 129],
+							['TAG' ,112],
+							['technology' ,69],
+							['electronic', 41],
+							['FREQUENCY', 40],
+							['ANTENNA', 38],
+							['reader',35]
+						]
+					}]
+				});
+			});
+				
+		</script>
+		
+
+		<script type="text/javascript">
+		
+			var chart;
+			$(document).ready(function() {
+				chart = new Highcharts.Chart({
+					chart: {
+						renderTo: 'container_graphe2',
+						defaultSeriesType: 'line',
+						marginRight: 130,
+						marginBottom: 25
+					},
+					title: {
+						text: 'Nombre de publications depuis 2009',
+						x: -20 //center
+					},
+					subtitle: {
+						text: 'Source: ESPACENET',
+						x: -20
+					},
+					xAxis: {
+						categories: ['2009', '2010', '2011', '2012', '2013']
+					},
+					yAxis: {
+						title: {
+							text: 'Nombre de brevets publiés '
+						},
+						plotLines: [{
+							value: 0,
+							width: 1,
+							color: '#808080'
+						}]
+					},
+					tooltip: {
+						formatter: function() {
+				                return '<b>'+ this.series.name +'</b><br/>'+
+								this.x +': '+ this.y +' Brevets';
+						}
+					},
+					legend: {
+						layout: 'vertical',
+						align: 'right',
+						verticalAlign: 'top',
+						x: -10,
+						y: 100,
+						borderWidth: 0
+					},
+					series: [{
+						name: 'Année', 	
+						data: [0,0,0 , 1, 499]
+					}]
+				});
+				
+				
+			});
+				
+		</script>
+		
+				<script type="text/javascript">
+		
+			var chart;
+			$(document).ready(function() {
+				chart = new Highcharts.Chart({
+					chart: {
+						renderTo: 'container_graphe3',
+						defaultSeriesType: 'column'
+					},
+					title: {
+						text: 'Les 10 top Auteurs '
+					},
+					subtitle: {
+						text: 'Source: ESPACENET '
+					},
+					xAxis: {
+						categories: [
+							'AO XUAN',
+							'U JIAN',
+							'GUO LIMIN'	,
+							'HOU HUA'	,
+							'HOU PING'	,
+							'ZENG XIANWEN',
+							'IN JIAMIAO',
+							'IN FUCUN'	,
+							'WAGNER RICHARD EDWARD'	,
+							'FORSTER IAN J'	
+						]
+					},
+					yAxis: {
+						min: 0,
+						title: {
+							text: 'Nombre de Brevets publiés '
+						}
+					},
+					legend: {
+						layout: 'vertical',
+						backgroundColor: '#FFFFFF',
+						align: 'left',
+						verticalAlign: 'top',
+						x: 100,
+						y: 70,
+						floating: true,
+						shadow: true
+					},
+					tooltip: {
+						formatter: function() {
+							return ''+
+								this.x +': '+ this.y +'  Brevets';
+						}
+					},
+					plotOptions: {
+						column: {
+							pointPadding: 0.2,
+							borderWidth: 0
+						}
+					},
+				        series: [{
+						name: 'Auteurs',
+						data: [13 ,10,9,8,7,7,7,7,6,6]
+				
+					}]
+				});
+				
+				
+			});
+				
+		</script>
+	
+	
+	
+	
+	
+</head>
+<body>
+<!-- Header -->
+<div id="header">
+	<div class="shell">
+		<!-- Logo + Top Nav -->
+		<div id="top">
+			<h1><a href="#">Systéme d'aide à la decision  : Téchnologie RFID 1 </a></h1>
+			<div id="top-navigation">
+				Welcome <a href="#"><strong>Administrator</strong></a>
+				<span>|</span>
+				<a href="#">Help</a>
+				<span>|</span>
+				<a href="#">Profile Settings</a>
+				<span>|</span>
+				<a href="#">Log out</a>
+			</div>
+		</div>
+		<!-- End Logo + Top Nav -->
+		
+		<!-- Main Nav -->
+		<div id="navigation">
+			<ul>
+			    <li><a href="index.html" ><span>Accueil</span></a></li>
+			    <li><a href="statistiques_.html"><span>Veille technologique :USPTO</span></a></li>
+				<li><a href="s_espaceNet.html" class="active"><span>Veille technologique :ESPACENET</span></a></li>
+			    <li><a href="s_pubmed.html"><span>Veille scientifique :PUBMED</span></a></li>
+			    <li><a href="s_01NET.html"><span>Veille media :01NET</span></a></li>
+		
+			</ul>
+		</div>
+		<!-- End Main Nav -->
+	</div>
+</div>
+<!-- End Header -->
+
+<!-- Container -->
+<div id="container">
+	<div class="shell">
+		
+		<!-- Small Nav -->
+		<div class="small-nav">
+			<a href="#">Statistiques</a>
+			<span> </span>
+			
+		</div>
+		<!-- End Small Nav -->
+		
+
+		
+		
+						<!-- Box Graphe 1-->
+				<div class="box">
+					<!-- Box Head -->
+					<div class="box-head">
+						<h2>Les mots clées ESPACENET</h2>
+					</div>
+					<!-- End Box Head -->
+					<!-- Form -->
+						<div class="form">
+							
+						</div>
+						<!-- 3. Add the container_graphe -->
+						<div id="container_graphe1" style="width: 700px; height: 400px; margin: 0 auto"></div>
+				</div>
+				<!-- End Box -->
+				
+				
+				<!-- Box Graphe 2-->
+				<div class="box">
+					<!-- Box Head -->
+					<div class="box-head">
+						<h2>Evolution des publication  selon les années </h2>
+					</div>
+					<!-- End Box Head -->
+					<!-- Form -->
+						<div class="form">
+							<p>
+								<label></label>
+							</p>
+						</div>
+						<!-- 3. Add the container_graphe -->
+						<div id="container_graphe2" style="width: 700px; height: 400px; margin: 0 auto"></div>
+				</div>
+				<!-- End Box -->
+				
+				
+				<!-- Box Graphe 3-->
+				<div class="box">
+					<!-- Box Head -->
+					<div class="box-head">
+						<h2>Auteurs ESPACENET</h2>
+					</div>
+					<!-- End Box Head -->
+					<!-- Form -->
+						<div class="form">
+							<p>
+							
+							</p>
+						</div>
+						<!-- 3. Add the container_graphe -->
+						<div id="container_graphe3" style="width: 700px; height: 400px; margin: 0 auto"></div>
+				</div>
+				<!-- End Box -->
+
+		<iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zRWWHyaY-8eo.kxdo7XOENRc8" width="1000" height="400px"></iframe>
+		
+
+	</div>
+</div>
+<!-- End Container -->
+
+<!-- Footer -->
+<div id="footer">
+	<div class="shell">
+		<center> &copy; 2013 - Groupe RFID1</center>
+		
+	</div>
+</div>
+<!-- End Footer -->
+	
+</body>
+</html>
